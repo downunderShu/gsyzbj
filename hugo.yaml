@@ -1,0 +1,63 @@
+baseURL: "https://downundershu.github.io/gsyzbj/"
+title: "郭抒营造笔记"
+theme: PaperMod
+pagination.pagerSize: 7
+enableRobotsTXT: true
+enableGitInfo: true  # 显示最后修改时间
+
+defaultContentLanguage: zh  # 主要语言设为中文
+hasCJKLanguage: true  # 启用中日韩文字优化
+
+build:
+  writeStats: true  # 生成构建统计信息
+  useResourceCacheWhen: always  # 启用资源缓存
+
+params:
+  env: production
+  defaultTheme: auto  # 自动明暗模式
+  
+  # 文章元数据
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+
+  # 导航菜单
+  menu:
+    main:
+      - identifier: archives
+        name: 文存
+        url: /archives/
+        weight: 10
+      - identifier: tags
+        name: 标签
+        url: /tags/
+        weight: 20
+      - identifier: about
+        name: 关于
+        url: /about/
+        weight: 30
+
+  # 社交媒体链接 (按需修改)
+  socialIcons:
+    - name: github
+      url: "https://github.com/downunderShu"
+    - name: linkedin
+      url: "https://linkedin.com/in/your-profile"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # 允许原始 HTML
+  highlight:
+    style: github-dark  # 代码高亮主题
+
+# services:
+#   disqus:  # 如需评论系统
+#     shortname: your-disqus-shortname
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # 支持搜索引擎优化

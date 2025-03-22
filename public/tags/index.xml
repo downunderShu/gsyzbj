@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on 郭抒营造笔记</title>
+    <link>http://localhost:1313/gsyzbj/tags/</link>
+    <description>Recent content in Tags on 郭抒营造笔记</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/gsyzbj/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>沧浪亭</title>
+      <link>http://localhost:1313/gsyzbj/tags/%E6%B2%A7%E6%B5%AA%E4%BA%AD/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gsyzbj/tags/%E6%B2%A7%E6%B5%AA%E4%BA%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>古典园林</title>
+      <link>http://localhost:1313/gsyzbj/tags/%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gsyzbj/tags/%E5%8F%A4%E5%85%B8%E5%9B%AD%E6%9E%97/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>模块化</title>
+      <link>http://localhost:1313/gsyzbj/tags/%E6%A8%A1%E5%9D%97%E5%8C%96/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gsyzbj/tags/%E6%A8%A1%E5%9D%97%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>营造系统</title>
+      <link>http://localhost:1313/gsyzbj/tags/%E8%90%A5%E9%80%A0%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gsyzbj/tags/%E8%90%A5%E9%80%A0%E7%B3%BB%E7%BB%9F/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
