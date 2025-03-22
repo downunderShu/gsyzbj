@@ -1,0 +1,12 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[context.production.environment]
+  HUGO_VERSION = "0.145.0"  # 替换为你本地的 Hugo 版本（需与本地一致）
+  HUGO_ENV = "production"
+  HUGO_ENABLEGITINFO = "true"
+
+[build.environment]
+  # 如果是 Hugo 扩展版（Extended），必须启用
+  HUGO_EXTENDED = "true"
