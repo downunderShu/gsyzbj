@@ -1,2 +1,33 @@
-public/
-hugo_stats.json
+# .gitignore
+
+# ----------------------------------
+# Hugo 生成文件
+# ----------------------------------
+public/          # Hugo 生成的静态站点目录
+hugo_stats.json  # Hugo 资源统计文件
+resources/       # Hugo 资源缓存目录
+
+# ----------------------------------
+# macOS 系统文件
+# ----------------------------------
+.DS_Store        # macOS 文件夹元数据文件
+._*              # macOS 资源派生文件
+.Spotlight-V100
+.Trashes
+
+# ----------------------------------
+# 开发工具/IDE 配置文件
+# ----------------------------------
+.idea/           # JetBrains IDE (IntelliJ, PyCharm, WebStorm 等)
+.vscode/         # Visual Studio Code 配置
+*.swp            # Vim 临时文件
+*.swo            # Vim 临时文件
+Thumbs.db        # Windows 缩略图缓存
+
+# ----------------------------------
+# 其他通用忽略项
+# ----------------------------------
+node_modules/    # Node.js 依赖目录（如果项目涉及前端工具链）
+.env             # 环境变量文件（敏感信息）
+*.log            # 日志文件
+tmp/             # 临时文件目录
