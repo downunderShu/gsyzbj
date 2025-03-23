@@ -39,11 +39,12 @@ params:
         weight: 30
 
   # 社交媒体链接 (按需修改)
+  socialIcons: []  # 清空所有默认图标
   socialIcons:
     - name: github
       url: "https://github.com/downunderShu"
     - name: linkedin
-      url: "https://linkedin.com/in/your-profile"
+      url: "https://linkedin.com/in/shu-guo-80b69634"
 
 markup:
   goldmark:
