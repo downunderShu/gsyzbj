@@ -1,3 +1,12 @@
++++
+title = "拙政园游记"
+date = 2025-06-21
+author = "GUO Shu (郭抒)"
+copyright = "© 2025 GUO Shu (郭抒). 本文采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。"  # 版权声明
+tags = ["拙政园", "古典园林", "平行世界", "陈从周"]
+draft = false  # 如果为true，文章不会发布
++++
+
 出差。偷闲。游览了向往已久的拙政园。
 
 只有几个小时时间，中间还要开一个电话会议，因此我一开园就早早抵达。
@@ -16,32 +25,42 @@
 
 也许，平行时空是真实的存在的。
 
-<img src="../_resources/20250614-L1009972.jpg" alt="20250614-L1009972.jpg" width="608" height="910">
 
-<img src="../_resources/20250614-L1009974.jpg" alt="20250614-L1009974.jpg" width="607" height="405">
 
-<img src="../_resources/20250614-L1009978.jpg" alt="20250614-L1009978.jpg" width="606" height="433">
+![20250614-L1009972.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009972.jpg)
 
-<img src="../_resources/20250614-L1009983.jpg" alt="20250614-L1009983.jpg" width="604" height="432">
+![20250614-L1009974.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009974.jpg)
 
-<img src="../_resources/20250614-L1009984.jpg" alt="20250614-L1009984.jpg" width="606" height="341">
+![20250614-L1009978.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009978.jpg)
 
-<img src="../_resources/20250614-L1009965.jpg" alt="20250614-L1009965.jpg" width="601" height="401">
+![20250614-L1009983.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009983.jpg)
 
-<img src="../_resources/20250614-L1009956.jpg" alt="20250614-L1009956.jpg" width="602" height="402">
+![20250614-L1009984.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009984.jpg)
 
-<img src="../_resources/20250614-L1009957.jpg" alt="20250614-L1009957.jpg" width="602" height="402">
+![20250614-L1009965.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009965.jpg)
 
-<img src="../_resources/20250614-L1009959.jpg" alt="20250614-L1009959.jpg" width="601" height="900">
+![20250614-L1009956.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009956.jpg)
 
-<img src="../_resources/20250614-L1009970.jpg" alt="20250614-L1009970.jpg" width="601" height="900"><img src="../_resources/20250614-L1009996.jpg" alt="20250614-L1009996.jpg" width="603" height="903">
+![20250614-L1009957.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009957.jpg)
 
-<img src="../_resources/20250614-L1009980.jpg" alt="20250614-L1009980.jpg" width="604" height="604"><img src="../_resources/20250614-L1009947.jpg" alt="20250614-L1009947.jpg" width="603" height="903">
+![20250614-L1009959.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009959.jpg)
 
-<img src="../_resources/20250614-L1009950.jpg" alt="20250614-L1009950.jpg" width="603" height="431"><img src="../_resources/20250614-L1009934.jpg" alt="20250614-L1009934.jpg" width="604" height="403">
+![20250614-L1009970.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009970.jpg)
 
-<img src="../_resources/20250614-L1009880.jpg" alt="20250614-L1009880.jpg" width="604" height="403">
+![20250614-L1009996.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009996.jpg)
 
-<img src="../_resources/20250614-L1009900.jpg" alt="20250614-L1009900.jpg" width="604" height="403"><img src="../_resources/20250614-L1000029.jpg" alt="20250614-L1000029.jpg" width="604" height="403">
+![20250614-L1009980.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009980.jpg)
 
-<img src="../_resources/20250614-L1000002.jpg" alt="20250614-L1000002.jpg" width="605" height="404">
+![20250614-L1009947.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009947.jpg)
+
+![20250614-L1009950.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009950.jpg)
+
+![20250614-L1009934.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009934.jpg)
+
+![20250614-L1009880.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009880.jpg)
+
+![20250614-L1009900.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1009900.jpg)
+
+![20250614-L1000029.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1000029.jpg)
+
+![20250614-L1000002.jpg](/images/2025-06-14-zhuozhengyuan/20250614-L1000002.jpg)
