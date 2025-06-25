@@ -31,3 +31,6 @@ node_modules/    # Node.js 依赖目录（如果项目涉及前端工具链）
 .env             # 环境变量文件（敏感信息）
 *.log            # 日志文件
 tmp/             # 临时文件目录
+.DS_Store
+.DS_Store
+/public/
