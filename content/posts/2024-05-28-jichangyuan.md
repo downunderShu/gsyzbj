@@ -23,23 +23,23 @@ draft = false # 如果为true，文章不会发布
 
 
 
-![20240527-L1009202.jpg](images/2024-05-28-jichangyuan/20240527-L1009202.jpg)
+![20240527-L1009202.jpg](/images/2024-05-28-jichangyuan/20240527-L1009202.jpg)
 
 
 
-![20240527-L1009192.jpg](images/2024-05-28-jichangyuan/20240527-L1009192.jpg)
+![20240527-L1009192.jpg](/images/2024-05-28-jichangyuan/20240527-L1009192.jpg)
 
 
 
-![20240527-L1009168.jpg](images/2024-05-28-jichangyuan/20240527-L1009168.jpg)
+![20240527-L1009168.jpg](/images/2024-05-28-jichangyuan/20240527-L1009168.jpg)
 
 
-![20240527-L1009206.jpg](images/2024-05-28-jichangyuan/20240527-L1009206.jpg)
+![20240527-L1009206.jpg](/images/2024-05-28-jichangyuan/20240527-L1009206.jpg)
 
 
-![20240527-L1009205.jpg](images/2024-05-28-jichangyuan/20240527-L1009205.jpg)
+![20240527-L1009205.jpg](/images/2024-05-28-jichangyuan/20240527-L1009205.jpg)
 
 
 
-![20240527-L1009211.jpg](images/2024-05-28-jichangyuan/20240527-L1009211.jpg)
+![20240527-L1009211.jpg](/images/2024-05-28-jichangyuan/20240527-L1009211.jpg)
 
