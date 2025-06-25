@@ -41,5 +41,5 @@ draft = false # 如果为true，文章不会发布
 
 
 
-![20240527-L1009211.jpg](../_resources/20240527-L1009211.jpg)
+![20240527-L1009211.jpg](images/2024-05-28-jichangyuan/20240527-L1009211.jpg)
 
