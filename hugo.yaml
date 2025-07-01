@@ -15,7 +15,8 @@ build:
 params:
   env: production
   defaultTheme: auto  # 自动明暗模式
-  ShowPostCopyright: false  # 禁用主题自带的版权声明
+  ShowPostCopyright: false  # 禁用主题默认
+  customCopyright: true     # 启用自定义
   
   # 文章元数据
   ShowReadingTime: true
