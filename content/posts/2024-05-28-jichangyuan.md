@@ -2,7 +2,7 @@
 title = "寄畅园游记"  
 date = 2024-05-28
 author = "GUO Shu (郭抒)"  
-copyright = "© 2025 郭抒 [署名-非商业性使用 4.0 国际](https://creativecommons.org/licenses/by-nc/4.0/) 转载需注明作者与原文链接" # 版权声明
+copyright = "© 2025 GUO Shu (郭抒). 本文采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明  
 tags = ["寄畅园", "古典园林", "秦园", "李正"]  
 draft = false # 如果为true，文章不会发布  
 +++
