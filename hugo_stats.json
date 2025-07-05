@@ -11,8 +11,10 @@
       "footer",
       "h1",
       "h2",
+      "h3",
       "head",
       "header",
+      "hr",
       "html",
       "img",
       "li",
@@ -34,6 +36,7 @@
       "ul"
     ],
     "classes": [
+      "anchor",
       "breadcrumbs",
       "entry-content",
       "entry-footer",
@@ -48,23 +51,18 @@
       "logo-switches",
       "main",
       "nav",
-      "next",
       "not-found",
       "page-header",
-      "paginav",
       "post-content",
+      "post-copyright",
       "post-entry",
       "post-footer",
       "post-header",
       "post-meta",
       "post-single",
-      "post-tags",
       "post-title",
-      "prev",
-      "share-buttons",
       "tag-entry",
       "terms-tags",
-      "title",
       "top-link"
     ],
     "ids": [
@@ -73,7 +71,19 @@
       "sun",
       "theme-toggle",
       "top",
-      "top-link"
+      "top-link",
+      "内因篇",
+      "后记",
+      "外因篇",
+      "引子",
+      "有一个终身的支持者",
+      "有一定的环境熏陶",
+      "有一群名师的指引",
+      "足够热忱赤子之心",
+      "足够真实知行合一",
+      "足够笨拙大巧若拙",
+      "足够自由从心所欲",
+      "身处一个变革的时代"
     ]
   }
 }

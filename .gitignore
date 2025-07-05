@@ -34,3 +34,4 @@ tmp/             # 临时文件目录
 .DS_Store
 .DS_Store
 /public/
+hugo_stats.json

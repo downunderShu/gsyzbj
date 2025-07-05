@@ -15,6 +15,7 @@ build:
 params:
   env: production
   defaultTheme: auto  # 自动明暗模式
+  ShowPostMeta: true   # 必须为true（默认值）
   ShowPostCopyright: false  # 禁用主题默认
   customCopyright: true     # 启用自定义
   

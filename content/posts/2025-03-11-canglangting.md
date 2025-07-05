@@ -2,7 +2,7 @@
 title = "沧浪亭的模块化基因——一座宋代园林的营造系统启示"
 date = 2025-03-11
 author = "GUO Shu (郭抒)"
-copyright = "© 2024 GUO Shu (郭抒). 本文采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。"  # 版权声明
+copyright = "© 2025 GUO Shu (郭抒). 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">CC BY-NC 4.0</a> 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
 tags = ["沧浪亭", "古典园林", "模块化", "营造系统"]
 draft = false  # 如果为true，文章不会发布
 +++

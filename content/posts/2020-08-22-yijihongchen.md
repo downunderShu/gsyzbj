@@ -2,7 +2,7 @@
 title = "“一骑红尘妃子笑”——千古名句中的中国园林（1）"  
 date = 2020-08-22  
 author = "GUO Shu (郭抒)"  
-copyright = "© 2025 GUO Shu (郭抒). 本文采用 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明   
+copyright = "© 2025 GUO Shu (郭抒). 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">CC BY-NC 4.0</a> 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明   
 tags = ["华清宫", "古典园林"]  
 draft = false # 如果为true，文章不会发布  
 +++

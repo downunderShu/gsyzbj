@@ -2,7 +2,7 @@
 title = "无心插柳的科幻巨“筑”"
 date = 2023-09-18
 author = "GUO Shu (郭抒)"
-copyright = "© 2025 郭抒 [署名-非商业性使用 4.0 国际](https://creativecommons.org/licenses/by-nc/4.0/) 转载需注明作者与原文链接"
+copyright = "© 2025 GUO Shu (郭抒). 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">CC BY-NC 4.0</a> 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
 tags = ["大棚", "脚手架"]
 draft = false
 +++
