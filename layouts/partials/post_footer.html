@@ -1,0 +1,6 @@
+{{- /* 完全清空此模板，仅保留自定义版权 */ -}}
+{{ if .Params.copyright }}
+<div class="post-copyright">
+  {{ .Params.copyright | safeHTML }}
+</div>
+{{ end }}
