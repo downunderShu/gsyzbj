@@ -1,49 +1,80 @@
 {{ define "main" }}
 <article class="post-single">
-  {{- /* 封面图（可选） */ -}}
+  {{- /* 仅保留必要的封面图 */ -}}
   {{- if .Params.cover }}
-  <figure class="post-cover">
     {{ partial "cover.html" . }}
-  </figure>
   {{- end }}
 
-  {{- /* 标题区块 */ -}}
+  {{- /* 核心修改：直接控制标题区 */ -}}
   <header class="post-header">
-    <h1 class="post-title">
-      {{ .Title }}
-      {{- if .Draft }}<sup><span class="entry-isdraft"> 
-(草稿)</span></sup>{{- end }}
-    </h1>
-
-    {{- /* 元数据（作者/日期/阅读时间） */ -}}
-    {{- if (.Param "ShowPostMeta") }}
+    <h1 class="post-title">{{ .Title }}</h1>
+    
+    {{- /* 仅显示必要的元数据 */ -}}
     <div class="post-meta">
-      {{- partial "post_meta.html" . -}}
+      {{- $metaParts := slice -}}
+  
+      {{- if .Date -}}
+        {{- $metaParts = $metaParts | append (printf `<time 
+datetime="%s">%s</time>` (.Date.Format "2006-01-02") (.Date.Format 
+"2006-01-02")) -}}
+      {{- end -}}
+  
+      {{- if .Params.author -}}
+        {{- $metaParts = $metaParts | append (printf `<span 
+class="post-author">%s</span>` .Params.author) -}}
+      {{- end -}}
+  
+      {{- if .Site.Params.ShowReadingTime -}}
+        {{- $metaParts = $metaParts | append (printf `<span 
+class="post-reading-time">%d分钟阅读</span>` .ReadingTime) -}}
+      {{- end -}}
+  
+      {{- $separator := " | " -}}  <!-- 默认英文分隔符 -->
+      {{- if eq .Site.Language.Lang "zh" -}}
+         {{- $separator = "｜" -}}   <!-- 中文环境用全角符号 -->
+      {{- end -}}
+  
+      {{- $metaContent := delimit $metaParts $separator -}}
+      {{ $metaContent | safeHTML }}
+
     </div>
-    {{- end }}
+
   </header>
 
-  {{- /* 文章内容 */ -}}
+  {{- /* 内容区 */ -}}
   <div class="post-content">
-    {{- if not (.Param "disableAnchoredHeadings") }}
-      {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}
-      {{ .Content }}
-    {{- end }}
+    {{ .Content }}
   </div>
 
-  {{- /* 自定义版权（唯一显示） */ -}}
-  {{- if .Params.copyright }}
+  {{- /* 完全自定义页脚 */ -}}
   <footer class="post-footer">
-    <div class="post-copyright">
-      {{ .Params.copyright | safeHTML }}
+    {{- /* 标签 */ -}}
+    {{ if .Params.tags }}
+    <div class="post-tags">
+      {{ range .Params.tags }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . 
+}}</a>
+      {{ end }}
     </div>
-  </footer>
-  {{- end }}
+    {{ end }}
 
-  {{- /* 评论功能（可选） */ -}}
-  {{- if (.Param "comments") }}
-    {{- partial "comments.html" . -}}
-  {{- end }}
+    {{- /* 自定义版权（唯一显示） */ -}}
+    {{ if .Params.copyright }}
+    <div class="custom-copyright">
+      {{ .Params.copyright | markdownify | safeHTML }}
+    </div>
+    {{ end }}
+
+    {{- /* 社交图标 */ -}}
+    {{ if .Site.Params.socialIcons }}
+    <div class="social-icons">
+      {{ range .Site.Params.socialIcons }}
+        <a href="{{ .url }}" target="_blank" rel="noopener">
+          {{ .name | title }}
+        </a>
+      {{ end }}
+    </div>
+    {{ end }}
+  </footer>
 </article>
 {{ end }}

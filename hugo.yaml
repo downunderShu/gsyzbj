@@ -15,13 +15,13 @@ build:
 params:
   env: production
   defaultTheme: auto  # 自动明暗模式
-  ShowPostMeta: true   # 必须为true（默认值）
+  ShowPostMeta: false   # 必须为true（默认值）,但是deepseek要求修改
   ShowPostCopyright: false  # 禁用主题默认
   customCopyright: true     # 启用自定义
   
   # 文章元数据
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
 
