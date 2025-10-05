@@ -1,3 +1,9 @@
+[[redirects]]
+  from = "/"
+  to = "/research/"
+  status = 302
+  force = true
+
 [build]
   command = "git submodule update --init --recursive && hugo --gc --minify"
   publish = "public"

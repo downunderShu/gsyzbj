@@ -1,7 +1,6 @@
 ---
 title: "Notes in Chinese"
-type: notes-in-chinese
-layout: single
+layout: "list"
 ---
 
 ## 原文存档
