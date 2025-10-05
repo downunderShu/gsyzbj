@@ -3,10 +3,14 @@ title = "An Ancient Fix for Australia's Modern Housing Crisis: Rethinking MMC"
 subtitle = "Efficiency at Scale, Freedom in Design"
 date = 2025-10-03  
 author = "Shu Guo"  
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+copyright = """
+© 2025 Shu Guo. This work is licensed under a [Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-All images, unless otherwise specified, are photographed or created by the author. The integrity of the work must be respected; it may not be used for commercial purposes, modified, remixed, transformed, or used to train artificial intelligence systems." # 版权声明  
-tags: [
+All images, unless otherwise specified, are photographed or created by the author. The 
+integrity of the work must be respected; it may not be used for commercial purposes, 
+modified, remixed, transformed, or used to train artificial intelligence systems."""  
+tags = [
   "Modern-Methods-of-Construction",
   "Housing-Crisis",
   "System-Thinking",
