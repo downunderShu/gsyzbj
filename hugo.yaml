@@ -6,7 +6,13 @@ enableRobotsTXT: true
 enableGitInfo: true  # 显示最后修改时间
 
 defaultContentLanguage: en  # 主要语言设为英文
+languageCode: "en-us"
 hasCJKLanguage: true  # 启用中日韩文字优化
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
 
 build:
   writeStats: true  # 生成构建统计信息
@@ -34,7 +40,7 @@ menu:
 params:
   env: production
   defaultTheme: auto  # 自动明暗模式
-  ShowPostMeta: false   # 必须为true（默认值）,但是deepseek要求修改
+  ShowPostMeta: true   # （默认值）
   ShowPostCopyright: false  # 禁用主题默认
   customCopyright: true     # 启用自定义
   
