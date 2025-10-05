@@ -43,6 +43,8 @@ params:
   ShowPostMeta: true   # （默认值）
   ShowPostCopyright: false  # 禁用主题默认
   customCopyright: true     # 启用自定义
+  # 确保启用自定义头部
+  customHead: true
   
   # 文章元数据
   ShowReadingTime: true
