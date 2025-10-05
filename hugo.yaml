@@ -1,16 +1,35 @@
 baseURL: "https://shuguo.archi"
-title: "郭抒营造笔记"
+title: "Shu Guo | Architecture & System"
 theme: PaperMod
 pagination.pagerSize: 7
 enableRobotsTXT: true
 enableGitInfo: true  # 显示最后修改时间
 
-defaultContentLanguage: zh  # 主要语言设为中文
+defaultContentLanguage: en  # 主要语言设为英文
 hasCJKLanguage: true  # 启用中日韩文字优化
 
 build:
   writeStats: true  # 生成构建统计信息
   useResourceCacheWhen: always  # 启用资源缓存
+
+menu:
+  main:
+    - identifier: research
+      name: Research
+      url: /research/
+      weight: 10
+    - identifier: essays
+      name: Essays
+      url: /essays/
+      weight: 20
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
 
 params:
   env: production
@@ -24,22 +43,6 @@ params:
   ShowShareButtons: false
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
-
-  # 导航菜单
-  menu:
-    main:
-      - identifier: archives
-        name: 文存
-        url: /archives/
-        weight: 10
-      - identifier: tags
-        name: 标签
-        url: /tags/
-        weight: 20
-      - identifier: about
-        name: 关于
-        url: /about/
-        weight: 30
 
   # 社交媒体链接 (按需修改)
   socialIcons: []  # 清空所有默认图标
