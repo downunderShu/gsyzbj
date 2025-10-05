@@ -1,8 +1,8 @@
 +++
 title = "无心插柳的科幻巨“筑”"
 date = 2023-09-18
-author = "GUO Shu (郭抒)"
-copyright = "© 2025 GUO Shu (郭抒). 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">CC BY-NC 4.0</a> 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
+author = "郭抒（GUO Shu）"
+copyright = "© 2025 郭抒（GUO Shu）. 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\" target=\"_blank\">CC BY-NC-ND 4.0</a> 国际许可协议授权。转载请注明作者及出处，禁止用于商业用途，亦不得修改、演绎、改编或用于AI训练。 所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
 tags = ["大棚", "脚手架"]
 draft = false
 +++
@@ -26,4 +26,8 @@ draft = false
 为什么要死磕？对于将来的生活安排，有几个人能三言两语说清楚？只有通过反复辩论、反复质疑、反复确认，才能基本摸清楚这个“山头”的山势。有了这个基础，顺势而为，就可以开始搭“脚手架”了。
 
 至于这个脚手架是用钢管还是竹子，那就看业主的预算和品味了。
+
+[图片摄影：周一凡]
+
+---
 

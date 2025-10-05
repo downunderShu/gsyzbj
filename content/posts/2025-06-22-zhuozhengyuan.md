@@ -1,8 +1,8 @@
 +++
 title = "拙政园游记"
 date = 2025-06-21
-author = "GUO Shu (郭抒)"
-copyright = "© 2025 GUO Shu (郭抒). 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\" target=\"_blank\">CC BY-NC 4.0</a> 许可协议。所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
+author = "郭抒（GUO Shu）"
+copyright = "© 2025 郭抒（GUO Shu）. 本文采用 <a href=\"https://creativecommons.org/licenses/by-nc-nd/4.0/\" target=\"_blank\">CC BY-NC-ND 4.0</a> 国际许可协议授权。转载请注明作者及出处，禁止用于商业用途，亦不得修改、演绎、改编或用于AI训练。 所有图片，除特别说明外，均由作者拍摄或绘制。" # 版权声明 
 tags = ["拙政园", "古典园林", "平行世界", "陈从周"]
 draft = false  # 如果为true，文章不会发布
 +++
