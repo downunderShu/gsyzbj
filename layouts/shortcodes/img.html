@@ -11,6 +11,9 @@
   {{ $image := resources.Get $src }}
   
   {{ if $image }}
+    {{/* 关键修改：使用 resources.Copy 保留元数据 - 修复变量定义 */}}
+    {{ $image = $image | resources.Copy (printf "%s" $image.Name) }}
+    
     {{/* 标准尺寸 - 从 JPEG 转换为 WebP */}}
     {{ $standard := $image.Resize "1200x webp q85" }}
     {{ $mobile := $image.Resize "800x webp q85" }}
