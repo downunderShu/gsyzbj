@@ -1,7 +1,7 @@
 [[redirects]]
   from = "/"
-  to = "/research/"
-  status = 302
+  to = "/studies/"
+  status = 200
   force = true
 
 [build]

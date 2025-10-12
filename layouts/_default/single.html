@@ -16,7 +16,7 @@
       {{- if .Date -}}
         {{- $metaParts = $metaParts | append (printf `<time 
 datetime="%s">%s</time>` (.Date.Format "2006-01-02") (.Date.Format 
-"2006-01-02")) -}}
+"02 Jan 2006")) -}}
       {{- end -}}
   
       {{- if .Params.author -}}
@@ -26,12 +26,12 @@ class="post-author">%s</span>` .Params.author) -}}
   
       {{- if .Site.Params.ShowReadingTime -}}
         {{- $metaParts = $metaParts | append (printf `<span 
-class="post-reading-time">%d分钟阅读</span>` .ReadingTime) -}}
+class="post-reading-time">%d min</span>` .ReadingTime) -}}
       {{- end -}}
   
-      {{- $separator := " | " -}}  <!-- 默认英文分隔符 -->
+      {{- $separator := "&nbsp;|&nbsp;" -}}  <!-- 默认英文分隔符 -->
       {{- if eq .Site.Language.Lang "zh" -}}
-         {{- $separator = "｜" -}}   <!-- 中文环境用全角符号 -->
+         {{- $separator = "｜" -}}   <!-- 如是中文使用中文全角分割符-->
       {{- end -}}
   
       {{- $metaContent := delimit $metaParts $separator -}}
@@ -58,10 +58,21 @@ class="post-reading-time">%d分钟阅读</span>` .ReadingTime) -}}
     </div>
     {{ end }}
 
-    {{- /* 自定义版权（唯一显示） */ -}}
+    {{- /* 文本内容版权 */ -}}
     {{ if .Params.copyright }}
-    <div class="custom-copyright">
+    <div class="custom-copyright" style="margin: 2rem 0; padding: 1rem; border-top: 1px 
+solid #eaeaea;">
+      <h4 style="margin-bottom: 0.5rem;">License</h4>
       {{ .Params.copyright | markdownify | safeHTML }}
+    </div>
+    {{ end }}
+
+    {{- /* 新增：图片版权声明 */ -}}
+    {{ if .Params.image_license }}
+    <div class="image-license" style="margin: 2rem 0; padding: 1rem; border-top: 1px 
+solid #eaeaea; font-size: 0.9em;">
+      <h4 style="margin-bottom: 0.5rem;">Images</h4>
+      <div style="white-space: pre-line;">{{ .Params.image_license }}</div>
     </div>
     {{ end }}
 

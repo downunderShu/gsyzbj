@@ -5,30 +5,20 @@ title: 'About'
 layout: 'single'
 ---
 
-Shu Guo bridges the worlds of building practice, historical research, and 
-economic systems. As a registered Building Designer and Builder with 
-twenty years of experience, he has a deep understanding of the Australian 
-housing industry's realities.
+Shu Guo is a Registered Building Designer and Builder with 20 years of experience in the 
+Australian housing industry. His career spans the evolution of construction innovation, 
+from leading early 3D-printing projects to his current role as Co-founder and Chief 
+Design Officer at Signex, a prefabricated housing provider.  
 
-His career traces the evolution of construction innovation itself. From 
-leading pioneering 3D-printing projects to his current role as Co-founder 
-and Chief Design Officer at Signex, a prefabricated housing provider, he 
-has been instrumental in bringing next-generation MMC to market.
-
-This practical innovation is guided by a unique intellectual pursuit: 
-years of deep research into classical Chinese architecture, gardens, and 
-historical building systems like the Yingzao Fashi. He deciphers how 
-ancient, systemized wisdom can inform modern challenges. As a graduate in 
-economics, his work is particularly focused on the systemic forces and 
-market dynamics that shape the built environment—a perspective that 
-defines his approach to architecture & system.
+Alongside his practice, he conducts research into classical Chinese architecture, 
+gardens, and building systems. His work focuses on how historical frameworks — such as 
+those codified in the *Yingzao Fashi* (China's 1103 National Building Code) — can address 
+contemporary challenges in housing delivery. With an academic background in economics, 
+his analysis centers on the systemic and economic forces that shape the built 
+environment.
 
 Connect with Shu on [LinkedIn](https://linkedin.com/in/shu-guo-80b69634).
 
 ---
 
 [View Chinese Original Notes](/notes-in-chinese/)
-
-All in-depth articles are available in both Chinese and English. Chinese 
-originals are archived here, while refined English versions are found in 
-respective sections.

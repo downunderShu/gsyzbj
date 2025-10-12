@@ -20,22 +20,18 @@ build:
 
 menu:
   main:
-    - identifier: research
-      name: Research
-      url: /research/
-      weight: 10
     - identifier: essays
-      name: Essays
-      url: /essays/
+      name: Studies
+      url: /studies/
+      weight: 10
+    - identifier: gallery
+      name: Gallery
+      url: /gallery/
       weight: 20
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 30
     - identifier: about
       name: About
       url: /about/
-      weight: 40
+      weight: 30
 
 params:
   env: production
