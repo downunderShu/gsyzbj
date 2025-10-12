@@ -1,101 +1,22 @@
 {{/*
-  图片 Shortcode 使用方式：
-  {{< img src="images/文件夹/图片名.jpg" alt="描述文字" caption="可选图注" >}}
+  简化版图片 Shortcode - 直接使用静态文件
 */}}
 
 {{ $src := .Get "src" }}
 {{ $alt := .Get "alt" }}
 {{ $caption := .Get "caption" }}
 
-{{ if $src }}
-  {{ $image := resources.Get $src }}
+<figure class="article-image" style="margin: 2rem 0; text-align: center;">
+  <img 
+    src="{{ $src }}" 
+    alt="{{ $alt }}"
+    loading="lazy"
+    decoding="async"
+    style="max-width: 100%; height: auto; display: block; margin: 0 auto; border-radius: 6px; box-shadow: 0 2px 12px rgba(0,0,0,0.1);">
   
-  {{ if $image }}
-    {{/* 关键修改：使用 resources.Copy 保留元数据 - 修复变量定义 */}}
-    {{ $image = $image | resources.Copy (printf "%s" $image.Name) }}
-    
-    {{/* 标准尺寸 - 从 JPEG 转换为 WebP */}}
-    {{ $standard := $image.Resize "1200x webp q85" }}
-    {{ $mobile := $image.Resize "800x webp q85" }}
-    
-    {{/* Retina 版本 */}}
-    {{ $retinaWidth := 1600 }}
-    {{ if lt $image.Width 1600 }}
-      {{ $retinaWidth = $image.Width }}
-    {{ end }}
-    {{ $retina := $image.Resize (printf "%dx webp q85" $retinaWidth) }}
-    
-    {{/* JPEG 回退版本 */}}
-    {{ $standardJpeg := $image.Resize "1200x jpeg q85" }}
-    {{ $mobileJpeg := $image.Resize "800x jpeg q85" }}
-    {{ $retinaJpeg := $image.Resize (printf "%dx jpeg q85" $retinaWidth) }}
-    
-    <figure class="article-image" style="margin: 2rem 0; text-align: center;">
-      <picture>
-        <!-- WebP 格式（主要） -->
-        <source 
-          media="(max-width: 768px)"
-          srcset="{{ $mobile.RelPermalink }}"
-          type="image/webp">
-        <source 
-          media="(min-width: 769px)"
-          srcset="{{ $standard.RelPermalink }} 1x, {{ $retina.RelPermalink }} 2x"
-          type="image/webp">
-        
-        <!-- JPEG 回退 -->
-        <source 
-          media="(max-width: 768px)"
-          srcset="{{ $mobileJpeg.RelPermalink }}"
-          type="image/jpeg">
-        <source 
-          media="(min-width: 769px)"
-          srcset="{{ $standardJpeg.RelPermalink }} 1x, {{ $retinaJpeg.RelPermalink }} 2x"
-          type="image/jpeg">
-        
-        <!-- 最终回退 - 添加保持比例的样式 -->
-        <img 
-          src="{{ $standardJpeg.RelPermalink }}" 
-          alt="{{ $alt }}"
-          width="{{ $standard.Width }}"
-          height="{{ $standard.Height }}"
-          loading="lazy"
-          decoding="async"
-          style="max-width: 100%; height: auto; aspect-ratio: {{ $standard.Width }} / {{ $standard.Height }}; object-fit: contain; display: block; margin: 0 auto; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      </picture>
-      
-      {{ if $caption }}
-        <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #666; font-style: italic; line-height: 1.4;">
-          {{ $caption | markdownify }}
-        </figcaption>
-      {{ end }}
-    </figure>
-  {{ else }}
-    {{/* 图片加载失败时，只显示替代文字，不显示错误信息 */}}
-    <figure class="article-image" style="margin: 2rem 0; text-align: center;">
-      <div style="background: #f8f9fa; padding: 3rem 2rem; border-radius: 4px; border: 2px dashed #dee2e6;">
-        <p style="margin: 0; color: #6c757d; font-style: italic; font-size: 0.95rem;">
-          {{ $alt }}
-        </p>
-      </div>
-      {{ if $caption }}
-        <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #666; font-style: italic; line-height: 1.4;">
-          {{ $caption | markdownify }}
-        </figcaption>
-      {{ end }}
-    </figure>
+  {{ if $caption }}
+    <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #666; font-style: italic; line-height: 1.4;">
+      {{ $caption | markdownify }}
+    </figcaption>
   {{ end }}
-{{ else }}
-  {{/* 路径未指定时，也保持优雅显示 */}}
-  <figure class="article-image" style="margin: 2rem 0; text-align: center;">
-    <div style="background: #f8f9fa; padding: 3rem 2rem; border-radius: 4px; border: 2px dashed #dee2e6;">
-      <p style="margin: 0; color: #6c757d; font-style: italic; font-size: 0.95rem;">
-        {{ $alt }}
-      </p>
-    </div>
-    {{ if $caption }}
-      <figcaption style="margin-top: 0.75rem; font-size: 0.9rem; color: #666; font-style: italic; line-height: 1.4;">
-        {{ $caption | markdownify }}
-      </figcaption>
-    {{ end }}
-  </figure>
-{{ end }}
+</figure>

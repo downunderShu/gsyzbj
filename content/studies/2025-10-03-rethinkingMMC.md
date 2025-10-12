@@ -39,7 +39,8 @@ The 15th-century Chinese answer was staggering: 14 years.
 From 1406, they spent eleven years on nationwide preparation, followed by the on-site assembly completed in just three. And the result is the Forbidden City we see today.
 
 {{< img 
-  src="images/2025-10-03-rethinkingMMC/20181002-shutterstock_1193779048-Beijing-Forbidden-City-Corner-Building.jpg" 
+  
+src="/images/2025-10-03-rethinkingMMC/20181002-shutterstock_1193779048-Beijing-Forbidden-City-Corner-Building.jpg" 
   alt="Close-up view of intricate dougong bracketing under eaves of corner tower, Forbidden City"
   caption="Image 1. Eave details of corner tower, Forbidden City, Beijing">}}
 
@@ -58,7 +59,8 @@ A central authority, the *Jiangzuo Jian* (Bureau of Construction), orchestrated 
 This was a systems-thinking solution on a grand scale. Its relevance for us today lies not in its imperial power, but in its proof of what a unified building system can achieve.
 
 {{< img 
-  src="images/2025-10-03-rethinkingMMC/20180816-shutterstock_1157202826-Beijing,Forbidden,City,Birdseye View.jpg" 
+  
+src="/images/2025-10-03-rethinkingMMC/20180816-shutterstock_1157202826-Beijing,Forbidden,City,Birdseye View.jpg" 
   alt="Aerial photograph showing symmetrical layout of palace complexes, Forbidden City"
   caption="Image 2. Aerial view of Forbidden City, Beijing">}}
 
@@ -79,13 +81,15 @@ Consequently, the role of a professional architect can be played well by the own
 The standardised components were the vocabulary; the garden was the poetry. This is the ultimate lesson: a well-designed system does not stifle the artist; it empowers them by answering the 'how', so they can focus entirely on the 'why'.
 
 {{< img 
-  src="images/2025-06-14-Zhuozheng-Garden/20250614-L1009997-Zhuozheng-Garden.jpg" 
+  
+src="/images/2025-06-14-Zhuozheng-Garden/20250614-L1009997-Zhuozheng-Garden.jpg" 
   alt="Traditional Chinese garden landscape with pavilions and ponds, Zhuozheng Garden"
   caption="Image 3. Zhuozheng Garden, Suzhou">}}
 
 
 {{< img 
-  src="images/2024-05-27-jichang-garden/20240527-L1009202-Jichang-Garden.jpg"
+  
+src="/images/2024-05-27-jichang-garden/20240527-L1009202-Jichang-Garden.jpg"
   alt="Traditional Chinese garden landscape with pavilions and ponds, Zhuozheng Garden"
   caption="Image 4. Jichang Garden, Wuxi">}}
 
