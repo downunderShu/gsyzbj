@@ -49,14 +49,11 @@ class="post-reading-time">%d min</span>` .ReadingTime) -}}
   {{- /* 完全自定义页脚 */ -}}
   <footer class="post-footer">
     {{- /* 标签 */ -}}
-    {{ if .Params.tags }}
     <div class="post-tags">
       {{ range .Params.tags }}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . 
-}}</a>
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>
       {{ end }}
     </div>
-    {{ end }}
 
     {{- /* 文本内容版权 */ -}}
     {{ if .Params.copyright }}
@@ -76,16 +73,15 @@ solid #eaeaea; font-size: 0.9em;">
     </div>
     {{ end }}
 
-    {{- /* 社交图标 */ -}}
-    {{ if .Site.Params.socialIcons }}
-    <div class="social-icons">
-      {{ range .Site.Params.socialIcons }}
-        <a href="{{ .url }}" target="_blank" rel="noopener">
-          {{ .name | title }}
-        </a>
-      {{ end }}
+    {{- /* 作者介绍 */ -}}
+    <div class="author-bio" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea;">
+    <p style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
+      Shu Guo is a Registered Building Designer and Builder with 20 years of 
+experience in the Australian housing industry, currently exploring ancient 
+wisdom for modern prefabrication challenges.
+      <a href="https://linkedin.com/in/shu-guo-80b69634" target="_blank" rel="noopener">Connect on LinkedIn</a>
+    </p>
     </div>
-    {{ end }}
   </footer>
 </article>
-{{ end }}
+{{end}}

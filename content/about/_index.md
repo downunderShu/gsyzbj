@@ -2,7 +2,6 @@
 date: '2025-10-05T18:38:19+11:00'
 draft: false  # 改为 false 才能在生产环境显示
 title: 'About'
-layout: 'single'
 ---
 
 Shu Guo is a Registered Building Designer and Builder with 20 years of experience in the 
