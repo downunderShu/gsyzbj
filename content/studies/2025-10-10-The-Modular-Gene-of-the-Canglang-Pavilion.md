@@ -68,32 +68,32 @@ In this context, the designer's (often the garden owner) energy was liberated. I
 As I finished the last of my tea, the reflections in the water below the Mianshui Xuan shattered into shimmering fragments. The ping of new emails continued on my phone. I couldn't help but wonder: Now that computer-controlled machinery can effortlessly produce components with a precision beyond the *Yingzao Fashi*, now that algorithmic modeling can exhaustively simulate every spatial variable—armed with modular systems far more rigorous than anything Shunqin Su possessed, can we still piece together a landscape of greater wildness, and poetic freedom than he did?
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009325-Canglangting-Garden.jpg"
+src="/images/2025-02-20-Canglangting/20250220-L1009325-Canglangting-Garden.jpg"
 alt="A corner of the Tower for Viewing Hills, seen from below, with a foreground of softly blurred, wind-stirred bamboo."
 caption="Image 1. The Tower for Viewing Hills, veiled by whispering bamboo.">}}
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009344-Canglang-Pavilion.jpg"
+src="/images/2025-02-20-Canglangting/20250220-L1009344-Canglang-Pavilion.jpg"
 alt="The Canglang Pavilion perched atop stone steps, forming the central focus amidst surrounding ancient trees."
 caption="Image 2. The Canglang Pavilion, anchored in its realm by ancient trees.">}}
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009370-Canglangting-Garden.jpg"
+src="/images/2025-02-20-Canglangting/20250220-L1009370-Canglangting-Garden.jpg"
 alt="The robust, hollow trunk of an ancient maple tree set against the plain white parapet wall of the Yangzhi Ting."
 caption="Image 3. A timeless maple, its hollow trunk sculpted by ages.">}}
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009379-Canglangting-Garden.jpg"
-alt="A view through a window of the Cuilinglong complex, framing a mist-like grove of bamboo with the rooftop of the Tower for Viewing Hills in the distance."
-caption="Image 4. Cuilinglong's window, framing a mist of bamboo.">}}
+src="/images/2025-02-20-Canglangting/20250220-L1009379-Canglangting-Garden.jpg"
+alt="The exterior of the Cuilinglong building, its walls and windows softened by a surrounding grove of bamboo that resembles a floating mist, with the Tower for Viewing Hills in the distance."
+caption="Image 4. Cuilinglong, shrouded in a mist of bamboo.">}}
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009424-Canglang-Pavilion.jpg"
+src="/images/2025-02-20-Canglangting/20250220-L1009424-Canglang-Pavilion.jpg"
 alt="A panoramic view across the pond showing the Pavilion for Fish Watching, the Double Corridor, and the Canglang Pavilion with Mianshui Xuan on the right."
 caption="Image 5. A sequenced narrative: from the Pavilion for Fish Watching, through the Double Corridor, to the Canglang Pavilion and Mianshui Xuan.">}}
 
 {{< img
-src="/images/2025-10-10-Canglangting-Garden/20250220-L1009432-Canglang-Pavilion.jpg"
+src="/images/2025-02-20-Canglangting/20250220-L1009432-Canglang-Pavilion.jpg"
 alt="A single prominent eave of the Mianshui Xuan in the foreground, visually repeating the sequence of eaves from the distant Canglang Pavilion to create a rhythmic pattern across the garden."
 caption="Image 6. A solitary eave of Mianshui Xuan, echoing the rhythm of the Canglang Pavilion beyond.">}}
 </article>
@@ -101,6 +101,6 @@ caption="Image 6. A solitary eave of Mianshui Xuan, echoing the rhythm of the Ca
 <div class="extended-reading" style="margin: 3rem 0; padding: 1.5rem; background: var(--content2); border-left: 4px solid #959ea9; border-radius: 4px; font-size: 0.9rem;">
     <p style="margin: 0 0 0.5rem 0; font-weight: 600; color: var(--primary);">Further Reading</p>
     <p style="font-style: italic; margin: 0; color: var(--secondary);">
-        This essay offers but a glimpse into the Canglang Pavilion. For a deeper visual exploration of its architectural details and spatial sequences, I invite you to the dedicated photographic curation: <a href="/the-architectural-anatomy-of-canglang-pavilion" style="color: #959ea9; font-weight: 500;">"The Architectural Anatomy of the Canglang Pavilion: A Visual Narrative of a Song Dynasty Garden"</a> (Coming Soon). There, the image will be the sole narrative voice.
+        This essay offers but a glimpse into the Canglang Pavilion. For a deeper visual exploration of its architectural details and spatial sequences, I invite you to the dedicated photographic curation: <a href="/gallery/2025-10-18-Decoding-Canglang-Pavilion/" style="color: #959ea9; font-weight: 500;">"The Canglang Pavilion: Mechanism and Poetry in Song Dynasty Space-Making"</a>. There, the image will be the sole narrative voice.
     </p>
 </div>
