@@ -1,23 +1,20 @@
 +++
 title = "The Modular Gene of the Canglang Pavilion: Insights from a Song Dynasty Garden's Construction System"
-date = 2025-10-15T00:00:00+10:00
+date = 2025-03-11T00:00:00+10:00
 lastmod = 2025-10-15T00:00:00+10:00
 author = "Shu Guo"
 copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
 image_license = """
 All photographs and drawings: © Shu Guo. All rights reserved."""
 tags = [
-"Type-Essay",
+"Essay",
 "Canglang-Pavilion", 
 "Chinese-Architecture",
-"Classical-Gardens",
 "Modularity",
 "System-Thinking",
 "Prefabrication",
-"Construction-History",
 "Song-Dynasty",
-"Suzhou",
-"Cross-cultural-communication"
+"Classical-Gardens",
 ]
 description = "A reflective essay exploring the sophisticated modular thinking embedded in the 11th-century Canglang Pavilion. This English piece, adapted for a Western professional audience, reveals how historical Chinese systems offer timeless lessons on design, prefabrication, and creative freedom."
 draft = false

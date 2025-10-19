@@ -9,16 +9,13 @@ Photographs: © 2025 Shu Guo. All rights reserved.
 Analytical Drawings (Plans, Sections, Diagrams): © 2025 Shu Guo. Compilation and annotations. Original underlying works © their respective owners. These drawings are provided for critical analysis, research, and educational use under fair use principles.
 """
 tags = [
-"Type-Curation",
+"Curation",
 "Canglang-Pavilion",
-"Chinese-Architecture", 
+"Spatial-Analysis", 
 "Classical-Gardens",
+"Chinese-Architecture",
 "Song-Dynasty",
-"Suzhou",
-"Spatial-Analysis",
-"Architectural-System",
-"Double-Corridor",
-"Design-Principles"
+"Suzhou"
 ]
 description = "A visual curation decoding the Canglang Pavilion's sophisticated spatial mechanisms. Through plans, photographs, and analysis, this exhibition reveals how an 11th-century garden orchestrates a timeless dialogue between architecture and nature through precise spatial instruments."
 draft = false
