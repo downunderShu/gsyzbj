@@ -1,22 +1,18 @@
 {{ define "main" }}
-<article class="post-single">
-  <header class="post-header">
-    <h1 class="post-title">{{ .Title }}</h1>
+<article class="about-single">
+  <header class="about-header">
+    <h1 class="about-title">{{ .Title }}</h1>
   </header>
 
-  <div class="post-content">
+  <div class="about-content">
     {{ .Content }}
   </div>
 
-  <footer class="post-footer">
-    {{- /* About 页面只显示标签，不显示作者介绍 */ -}}
-    {{ if .Params.tags }}
-    <div class="post-tags">
-      {{ range .Params.tags }}
-        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}/">#{{ . }}</a>
-      {{ end }}
+  <footer class="page-footer-copyright" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); text-align: center;">
+    <div style="font-size: 0.9rem; color: var(--secondary); line-height: 1.5;">
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+      <p>Content by Shu Guo. Connect on <a href="https://linkedin.com/in/shu-guo-80b69634" style="color: var(--secondary);">LinkedIn</a></p>
     </div>
-    {{ end }}
   </footer>
 </article>
 {{ end }}

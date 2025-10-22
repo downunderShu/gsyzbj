@@ -41,8 +41,6 @@ params:
   customCopyright: true     # 启用自定义
   # 确保启用自定义头部
   customHead: true
-  footer:
-    hideCopyright: true
   
   # 文章元数据
   ShowReadingTime: true
@@ -51,30 +49,27 @@ params:
   ShowPostNavLinks: true
 
   # SEO基础配置
-  description: "Australian registered practitioner researching millennia-old Chinese architectural wisdom and classical gardens. Developing integrated systems that connect design, supply chain, and construction to liberate designers and focus on fundamental human experiences."
+  description: "Australian registered practitioner researching millennia-old Chinese architectural wisdom and 
+classical gardens. Developing integrated systems that connect design, supply chain, and construction to liberate 
+designers and focus on fundamental human experiences."
   author: "Shu Guo"
-  keywords: ["architecture", "systems thinking", "Chinese gardens", "prefabrication", "modular design", "traditional Chinese architecture", "construction methods", "designer liberation", "MMC", "Modern Methods of Construction", "housing crisis", "building systems"]
+  keywords: ["architecture", "systems thinking", "Chinese gardens", "prefabrication", "modular design", "traditional 
+Chinese architecture", "construction methods", "designer liberation", "MMC", "Modern Methods of Construction", 
+"housing crisis", "building systems"]
   
   # 社交媒体图片
   images: ["/images/site-feature-image.jpg"]
   
-  # Analytics配置 - 修复结构
+  # Analytics配置
   analytics:
-    google:
-      SiteVerificationTag: ""  # 留空，因为我们不需要验证
-    # GA ID在extended_head.html中直接配置
+    google: G-BGJDSMMFJ9  # 请确认这个ID是否正确
+  
+  # Open Graph默认配置
+  openGraph:
+    title: "Shu Guo | Architecture & System"
+    description: "Researching ancient architectural wisdom for modern dwelling challenges"
 
-  # 社交媒体链接 (按需修改)
-  socialIcons: []  # 清空所有默认图标
-  socialIcons:
-    - name: github
-      url: "https://github.com/downunderShu"
-    - name: linkedin
-      url: "https://linkedin.com/in/shu-guo-80b69634"
 
-  assets:
-    disableHLJS: false
-    disableFingerprinting: false
 
 markup:
   goldmark:
@@ -92,9 +87,3 @@ outputs:
     - HTML
     - RSS
     - JSON  # 支持搜索引擎优化
-
-
-  # 页脚配置
-  footer:
-    hideCopyright: true    # 隐藏"© 2025 Shu Guo | Architecture & System"
-    hidePoweredBy: false   # 保留"Powered by Hugo & PaperMod"（可选）

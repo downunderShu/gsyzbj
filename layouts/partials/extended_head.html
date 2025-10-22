@@ -1,8 +1,179 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-FWQ4BH16YZ"></script>
+<!-- 品牌统一元数据 -->
+<meta name="description" content="{{ .Description | default "Australian registered practitioner researching millennia-old Chinese architectural wisdom and classical gardens. Developing integrated systems that connect design, supply chain, and construction to liberate designers and focus on fundamental human experiences." }}">
+
+<meta name="author" content="Shu Guo">
+
+<meta name="keywords" content="architecture, systems thinking, Chinese gardens, prefabrication, modular design, traditional Chinese architecture, construction methods, designer liberation, MMC, Modern Methods of Construction, housing crisis, building systems">
+
+<!-- Open Graph 社交媒体元数据 -->
+<meta property="og:title" content="{{ .Title | default "Shu Guo | Architecture & System" }}">
+<meta property="og:description" content="{{ .Description | default "Australian registered practitioner researching millennia-old Chinese architectural wisdom and classical gardens" }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:site_name" content="Shu Guo | Architecture & System">
+{{ with .Site.Params.images }}
+<meta property="og:image" content="{{ index . 0 | absURL }}">
+{{ end }}
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ .Title | default "Shu Guo | Architecture & System" }}">
+<meta name="twitter:description" content="{{ .Description | default "Australian registered practitioner researching millennia-old Chinese architectural wisdom and classical gardens" }}">
+{{ with .Site.Params.images }}
+<meta name="twitter:image" content="{{ index . 0 | absURL }}">
+{{ end }}
+
+<!-- 结构化数据 -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shu Guo",
+  "description": "Australian registered building designer and researcher exploring the intersection of ancient architectural wisdom and modern systematic thinking",
+  "url": "https://shuguo.archi",
+  "jobTitle": "Registered Building Designer and Builder",
+  "knowsAbout": [
+    "Systematic Thinking in Architecture",
+    "Ancient Chinese Building Wisdom", 
+    "Modern Methods of Construction",
+    "Chinese Classical Gardens",
+    "Modular Construction Systems"
+  ],
+  "sameAs": [
+    "https://linkedin.com/in/shu-guo-80b69634",
+    "https://github.com/downunderShu"
+  ]
+}
+</script>
+
+<!-- Google Analytics 安全配置 -->
+{{ if not hugo.IsServer }}
+    <!-- 生产环境：加载GA -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FWQ4BH16YZ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-BGJDSMMFJ9');
+      console.log("🔍 GA Tracking: ENABLED (Production Environment)");
+    </script>
+{{ else }}
+    <!-- 开发环境：不加载GA -->
+    <script>
+        console.log("🚫 GA Tracking: DISABLED (Development Environment)");
+        console.log("📊 This prevents pollution of analytics data during development");
+    </script>
+{{ end }}
+
+<!-- 自定义CSS -->
+<link rel="stylesheet" href="{{ "css/extended/custom.css" | relURL }}">
+<style>
+/* 隐藏全局版权声明 */
+footer .footer span:first-child {
+  display: none !important;
+}
+</style>
+
+<style>
+/* 强制隐藏全局版权声明 */
+footer .footer span:first-child,
+footer .footer a[href*="shuguo.archi"],
+.footer span:contains("©"),
+.footer span:contains("2025"),
+.footer > span:first-of-type {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  width: 0 !important;
+  position: absolute !important;
+}
+
+/* 备用选择器 - 隐藏所有可能包含版权的span */
+footer .footer span,
+footer .footer div {
+  position: relative;
+}
+
+footer .footer span:nth-child(1),
+footer .footer span:nth-of-type(1) {
+  display: none !important;
+}
+
+/* 如果上面不行，隐藏整个第一行 */
+footer .footer > *:first-child {
+  display: none !important;
+}
+</style>
+
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-FWQ4BH16YZ');
+document.addEventListener('DOMContentLoaded', function() {
+  // 方法1: 隐藏包含版权文本的元素
+  const footer = document.querySelector('footer.footer');
+  if (footer) {
+    const spans = footer.querySelectorAll('span');
+    spans.forEach(span => {
+      if (span.textContent.includes('©') || 
+          span.textContent.includes('2025') ||
+          span.textContent.includes('Shu Guo') ||
+          span.textContent.includes('Architecture & System')) {
+        span.style.display = 'none';
+        span.style.visibility = 'hidden';
+      }
+    });
+    
+    // 方法2: 隐藏第一个span元素（通常是版权）
+    const firstSpan = footer.querySelector('span');
+    if (firstSpan) {
+      firstSpan.style.display = 'none';
+    }
+    
+    // 方法3: 直接操作HTML
+    footer.innerHTML = footer.innerHTML.replace(/© 2025 Shu Guo \| Architecture & System/g, '');
+  }
+});
+</script>
+
+<style>
+/* 精确隐藏版权声明 - 针对已知结构 */
+footer.footer > span:first-child {
+  display: none !important;
+}
+
+/* 备用选择器 */
+footer .footer span:first-child,
+footer span:first-of-type {
+  display: none !important;
+}
+
+/* 确保隐藏生效 */
+footer.footer span:first-child {
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // 精确隐藏第一个span（版权信息）
+  const footer = document.querySelector('footer.footer');
+  if (footer) {
+    const firstSpan = footer.querySelector('span:first-child');
+    if (firstSpan) {
+      firstSpan.style.display = 'none';
+      firstSpan.style.visibility = 'hidden';
+    }
+  }
+  
+  // 备用方案：直接操作DOM
+  setTimeout(function() {
+    const spans = document.querySelectorAll('footer.footer span');
+    if (spans.length > 0 && spans[0].textContent.includes('©')) {
+      spans[0].remove();
+    }
+  }, 100);
+});
 </script>

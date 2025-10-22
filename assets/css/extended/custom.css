@@ -1,0 +1,35 @@
+/* 修复标签显示 - 水平排列 */
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0;
+}
+
+.post-tags a {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  text-decoration: none;
+  color: var(--secondary);
+  transition: all 0.2s ease;
+}
+
+.post-tags a:hover {
+  background: var(--border);
+  color: var(--primary);
+}
+
+/* 修复文章元数据显示 */
+.post-meta {
+  font-size: 0.9rem;
+  color: var(--secondary);
+  margin: 0.5rem 0;
+}
+
+.post-meta time {
+  color: var(--secondary);
+}

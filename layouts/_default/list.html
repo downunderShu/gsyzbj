@@ -1,0 +1,138 @@
+{{- define "main" }}
+
+{{- if .Content }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
+{{- partial "home_info.html" . }}
+{{- end }}
+
+{{- $term := .Data.Term }}
+{{- if gt $paginator.TotalNumberOfElements 0 }}
+
+{{- if not .IsHome }}
+<h1 class="page-title">{{ .Title }}</h1>
+{{- end }}
+
+<style>
+.articles-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.article-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  background: var(--entry);
+  transition: all 0.2s ease;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.article-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-color: var(--primary);
+}
+
+.article-card h3 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1.6rem;
+  line-height: 1.3;
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.article-card .post-summary {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--secondary);
+  flex-grow: 1;
+  margin-bottom: 0.5rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.article-card .post-meta {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  opacity: 0.8;
+  margin-top: auto;
+}
+
+{{ if .Params.cover }}
+.article-card.with-cover {
+  background: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url({{ .Params.cover }});
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+.article-card.with-cover h3,
+.article-card.with-cover .post-meta,
+.article-card.with-cover .post-summary {
+  color: white;
+}
+{{ end }}
+</style>
+
+<div class="articles-list">
+  {{- range $index, $page := $paginator.Pages }}
+  <a href="{{ .Permalink }}" class="article-card {{ if .Params.cover }}with-cover{{ end }}">
+    <h3>{{ .Title }}</h3>
+    {{- with .Params.subtitle }}
+    <div class="post-subtitle" style="font-style: italic; margin-bottom: 0.5rem; color: var(--secondary);">{{ . }}</div>
+    {{- end }}
+    <div class="post-summary">{{ .Summary | plainify }}</div>
+    <div class="post-meta">
+      {{ .Date.Format "02 Jan 2006" }} · {{ .ReadingTime }} min{{ if .Params.author }} · {{ .Params.author }}{{ end }}
+    </div>
+  </a>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- if gt $paginator.TotalNumberOfElements 0 }}
+<footer class="page-footer-copyright" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); text-align: center;">
+  <div style="font-size: 0.9rem; color: var(--secondary); line-height: 1.5;">
+    <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    <p>Content by Shu Guo. Connect on <a href="https://linkedin.com/in/shu-guo-80b69634" style="color: var(--secondary);">LinkedIn</a></p>
+  </div>
+</footer>
+{{- end }}
+
+{{- if gt $paginator.TotalPages 1 }}
+<footer class="page-footer">
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL }}">« {{ i18n "prev_page" }}</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL }}">{{ i18n "next_page" }} »</a>
+    {{- end }}
+  </nav>
+</footer>
+{{- end }}
+
+{{- end }}
