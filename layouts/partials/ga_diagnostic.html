@@ -1,0 +1,45 @@
+<!-- GA 详细诊断 -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('=== 🔍 GA 详细诊断开始 ===');
+  
+  // 基础信息
+  console.log('📊 GA 测量ID: G-BGJDSMMFJ9');
+  console.log('🌐 当前环境: {{ if hugo.IsServer }}开发{{ else }}生产{{ end }}');
+  console.log('🔗 页面URL:', window.location.href);
+  console.log('📝 页面标题:', document.title);
+  console.log('🕒 诊断时间:', new Date().toISOString());
+  
+  // 检查关键对象
+  console.log('=== 对象状态检查 ===');
+  console.log('window.dataLayer:', window.dataLayer ? '✅ 已存在' : '❌ 未定义');
+  console.log('typeof gtag:', typeof gtag);
+  console.log('gtag 函数:', typeof gtag === 'function' ? '✅ 可用' : '❌ 不可用');
+  
+  // 检查脚本加载
+  const gaScripts = document.querySelectorAll('script[src*="googletagmanager.com"]');
+  console.log('📜 GA 脚本数量:', gaScripts.length);
+  gaScripts.forEach((script, index) => {
+    console.log(`  脚本 ${index + 1}:`, script.src);
+  });
+  
+  // 手动测试数据层
+  if (window.dataLayer) {
+    console.log('📈 dataLayer 内容:', window.dataLayer);
+    
+    // 发送测试事件
+    try {
+      window.dataLayer.push({
+        'event': 'ga_diagnostic_event',
+        'diagnostic_category': 'testing',
+        'diagnostic_label': 'manual_test'
+      });
+      console.log('✅ 诊断事件已推送到 dataLayer');
+    } catch (e) {
+      console.log('❌ 推送到 dataLayer 失败:', e);
+    }
+  }
+  
+  console.log('=== 🏁 GA 诊断结束 ===');
+});
+</script>

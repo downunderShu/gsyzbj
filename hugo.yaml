@@ -87,14 +87,16 @@ markup:
 #   disqus:  # 如需评论系统
 #     shortname: your-disqus-shortname
 
+
 outputs:
   home:
     - HTML
     - RSS
-    - JSON  # 支持搜索引擎优化
-
-
-  # 页脚配置
-  footer:
-    hideCopyright: true    # 隐藏"© 2025 Shu Guo | Architecture & System"
-    hidePoweredBy: false   # 保留"Powered by Hugo & PaperMod"（可选）
+  page:
+    - HTML
+  section:
+    - HTML
+  taxonomy:
+    - HTML
+  term:
+    - HTML

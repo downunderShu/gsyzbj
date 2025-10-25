@@ -49,7 +49,7 @@
 <!-- Google Analytics 安全配置 -->
 {{ if not hugo.IsServer }}
     <!-- 生产环境：加载GA -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FWQ4BH16YZ"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BGJDSMMFJ9"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -177,3 +177,4 @@ document.addEventListener('DOMContentLoaded', function() {
   }, 100);
 });
 </script>
+{{ partial "ga_diagnostic.html" . }}
