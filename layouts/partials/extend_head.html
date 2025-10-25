@@ -1,31 +1,8 @@
-<!-- 🚨 extend_head.html 强制调试 -->
-<script>
-console.log('=== 🚨 extend_head.html 强制执行 ===');
-document.addEventListener('DOMContentLoaded', function() {
-    var debugDiv = document.createElement('div');
-    debugDiv.innerHTML = '🚨 EXTEND_HEAD 工作正常 - ' + new Date().toISOString();
-    debugDiv.style.cssText = 'position:fixed; top:10px; left:10px; background:green; color:white; padding:10px; z-index:9999; font-size:16px; border:2px solid yellow;';
-    document.body.appendChild(debugDiv);
-    console.log('✅ 调试元素已添加到页面');
-});
-</script>
-
 <!-- Google Analytics -->
-<script>
-console.log('🔍 开始加载 GA...');
-</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BGJDSMMFJ9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', 'G-BGJDSMMFJ9');
-  console.log('✅ GA 配置完成: G-BGJDSMMFJ9');
-  
-  // 发送测试事件
-  gtag('event', 'page_view', {
-    'page_title': document.title,
-    'page_location': window.location.href
-  });
-  console.log('✅ GA 页面浏览事件已发送');
 </script>
