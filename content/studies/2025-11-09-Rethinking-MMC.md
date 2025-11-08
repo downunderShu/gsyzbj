@@ -3,7 +3,7 @@ title = "An Ancient Fix for Australia's Modern Housing Crisis: Rethinking MMC"
 date = 2025-10-03T00:00:00+10:00  
 lastmod = 2025-11-09T00:00:00+10:00  
 author = "Shu Guo"  
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."  
+copyright = "© 2025 Shu Guo. All rights reserved."  
 image_license = """  
 Image 1 & 2: © Shutterstock. Licensed for use in this publication.  
 Image 3 & 4: © Shu Guo. All rights reserved."""  
