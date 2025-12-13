@@ -18,6 +18,8 @@ These images may not be reproduced or adapted without prior written permission.
 """  
 tags = [
   "Essay",
+  "Visual-Essay",         # 表明是图文一体
+  "Mother-Map",           # 标记它属于母图系列
   "Chinese-Architecture",
   "Classical-Gardens",
   "Modularity",
@@ -47,7 +49,7 @@ This fear confuses standardisation with sameness. A well-designed system doesn�
 
 Consider the classical Chinese garden: a world of whimsical charm and deep artistry, where no two gardens are alike. Far more than a mere outdoor space, it was a personal universe: a library for the scholar, a studio for the artist, a quiet retreat for meditation, and a gracious setting for hosting friends, enjoying music, and staging opera. Most importantly, it was a world in miniature, crafted by its owner to be a spiritual haven. In essence, designing such a garden was akin to designing a complete, contemporary dream house.
 
-Surprisingly, many large, complex gardens were built in just two or three years, while comparable Western or West Asian estates often took a decade or more. This speed is striking when you realise how dense these gardens are with architecture – halls, pavilions, bridges, roofed walkways.
+Surprisingly, many large, complex gardens were built in just two or three years, while comparable Western or West Asian estates often took a decade or more. This speed is striking when you realise how dense these gardens are with architecture – halls, pavilions, bridges, roofed walkways, and more.
 
 How did designers and builders achieve both creativity and speed centuries ago?
 
@@ -70,10 +72,10 @@ In short, a national construction system, reinforced by centuries of craft pract
 As a result, the designer’s mind was freed to focus on the highest level of creation: the experience. They could pour their energy into:
 
 **XIANGDI – Read and Sense the site**  
-With the “how” resolved by the system, design begins not with technical constraints, but with **a deep, almost poetic, reading of the land.** Xiangdi means to sense the character of a place: its topography and water flow, the borrowed scenery of distant mountains, the path of the sun and wind, and the subtle indications of the site’s past and potential. It is an act of listening before drawing.
+With the “how” resolved by the system, design begins not with technical constraints, but with a deep, almost poetic, reading of the land. Xiangdi means to sense the character of a place: its topography and water flow, the borrowed scenery of distant mountains, the path of the sun and wind, and the subtle indications of the site’s past and potential. It is an act of listening before drawing.
 
 **LIYI – Craft the Poetic Intent**  
-Liyi is where the soul of the garden is defined. It answers the core question: “What should this place **mean**?” It establishes the desired mood—serenity, exhilaration, contemplation—and chooses its governing metaphors and images: is it a mountain retreat, a waterside labyrinth, or a scholar’s microcosm? It sketches the narrative arc of a visit and considers how light, shadow, and the seasons will animate the space. Crucially, it also decides what must be **excluded**. Liyi does not draw a single line; it sets the poetic and conceptual boundaries within which all physical form must resonate.
+Liyi is where the soul of the garden is defined. It answers the core question: “What should this place mean?” It establishes the desired mood—serenity, exhilaration, contemplation—and chooses its governing metaphors and images: is it a mountain retreat, a waterside labyrinth, or a scholar’s microcosm? It sketches the narrative arc of a visit and considers how light, shadow, and the seasons will animate the space. Crucially, it also decides what must be excluded. Liyi does not draw a single line; it sets the poetic and conceptual boundaries within which all physical form must resonate.
 
 **BUJU – Choreograph the Experience**  
 Buju is the composition of the spatial poem. With the intent set, it arranges all physical elements—paths, walls, openings, water, rock—to choreograph the embodied experience. It dictates the rhythm of movement and pause, controls the sequence of views through concealment and reveal, and calibrates dimensions and enclosure to shape the emotional cadence of the journey. The result is not a circulation diagram, but a carefully scored sequence of compression and release, intimacy and expanse.
@@ -91,7 +93,6 @@ Same components. Same rules. Completely different poems.
 
 Standardisation here is not a reluctant compromise that creativity merely “coexists” with. It is what liberates creativity – by carrying so much of the load of the “how” that the “why” can be pursued with focus and courage.
 
-* * *
 
 ### The core lesson
 
