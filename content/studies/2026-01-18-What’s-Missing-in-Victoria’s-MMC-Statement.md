@@ -3,8 +3,7 @@ title = "What’s Missing in Victoria’s MMC Statement—and Why It Matters"
 date = 2026-01-18T00:00:00+10:00
 lastmod = 2026-01-31T00:00:00+10:00
 author = "Shu Guo"
-copyright = "© 2026 Shu Guo. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
-."
+copyright = "© 2026 Shu Guo. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
 image_license = """
 Diagram © 2026 Shu Guo. All rights reserved.
 Terms: Share unmodified with attribution to Shu Guo (shuguo.archi). No commercial use or derivatives without permission."""
