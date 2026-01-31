@@ -38,7 +38,7 @@ Across typologies—modular, panelised and, in specialised contexts, additive ma
 The discussion therefore centres on three system-level gaps: common rules, repeatable delivery, and verifiable trust.
 
 {{< img
-src="/images/2026-01-31-MT1/20260131-MMC-Missing-1600.jpg"
+src="/images/2026-01-31-MT1/20260131-MMC1-1600.jpg"
 alt="MMC System Map overlay showing what is present (solid) vs missing (dashed) in Victoria’s MMC Statement."
 caption="MMC System Map — Solid outline = in Victoria’s MMC Statement; dashed outline = missing. Diagram © 2026 Shu Guo (shuguo.archi).">}}
 
