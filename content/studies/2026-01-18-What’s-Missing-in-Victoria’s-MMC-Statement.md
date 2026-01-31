@@ -1,24 +1,31 @@
-+++  
-title = "What’s Missing in Victoria’s MMC Statement—and Why It Matters"  
-date = 2026-01-18T00:00:00+10:00  
-author = "Shu Guo"  
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."  
-image_license = """  
-© Shu Guo. All rights reserved."""  
-tags = [  
-  "Research",
-  "MMC",
-  "Victoria",
-  "Policy",
-  "Housing",
-  "Prefabrication",
-  "DfMA",
-  "Regulatory-Reform",
-  "System-Design",
-  "Trust-Infrastructure"
-]  
-description = "A policy critique of Victoria’s MMC Statement: what’s missing to scale beyond pilots—shared rules, repeatable delivery mechanisms, and verifiable trust infrastructure."  
-draft = false # 如果为true，文章不会发布  
++++
+title = "What’s Missing in Victoria’s MMC Statement—and Why It Matters"
+date = 2026-01-18T00:00:00+10:00
+lastmod = 2026-01-31T00:00:00+10:00
+author = "Shu Guo"
+copyright = "© 2026 Shu Guo. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
+."
+image_license = """
+Diagram © 2026 Shu Guo. All rights reserved.
+Terms: Share unmodified with attribution to Shu Guo (shuguo.archi). No commercial use or derivatives without permission."""
+tags = [
+"Research",
+"MMC",
+"Victoria",
+"Policy",
+"Housing",
+"Prefabrication",
+"DfMA",
+"Regulatory-Reform",
+"System-Design",
+"Interoperability",
+"Repeatability",
+"Digital-Trust",
+"Verification",
+"Trust-Infrastructure"
+]
+description = "Updated with the MMC System Map: a critique of Victoria’s MMC Statement showing what’s present vs missing to scale beyond pilots—common language, an industry conductor, resilient delivery, and verifiable trust."
+draft = false # 如果为true，文章不会发布
 +++
 
 Victoria’s MMC Statement is a meaningful step. It positions MMC as a practical lever for Australia’s housing challenge: faster delivery, higher quality, stronger cost certainty, and lower carbon. It also signals intent across regulation, approvals, skills and government procurement.
@@ -30,6 +37,11 @@ The analysis below offers an ideal blueprint: it outlines the essential system b
 Across typologies—modular, panelised and, in specialised contexts, additive manufacturing—the requirements for scale are consistent: a shared rules language and verifiable delivery mechanisms.
 
 The discussion therefore centres on three system-level gaps: common rules, repeatable delivery, and verifiable trust.
+
+{{< img
+src="/images/2026-01-31-MT1/20260131-MMC-Missing-1600.jpg"
+alt="MMC System Map overlay showing what is present (solid) vs missing (dashed) in Victoria’s MMC Statement."
+caption="MMC System Map — Solid outline = in Victoria’s MMC Statement; dashed outline = missing. Diagram © 2026 Shu Guo (shuguo.archi).">}}
 
 ---
 
