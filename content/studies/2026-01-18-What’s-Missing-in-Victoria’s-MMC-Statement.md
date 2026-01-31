@@ -35,7 +35,7 @@ The analysis below offers an ideal blueprint: it outlines the essential system b
 
 Across typologies—modular, panelised and, in specialised contexts, additive manufacturing—the requirements for scale are consistent: a shared rules language and verifiable delivery mechanisms.
 
-The discussion therefore centres on three system-level gaps: common rules, repeatable delivery, and verifiable trust.
+The discussion therefore centres on three system-level gaps: **common rules**, **repeatable delivery**, and **verifiable trust**. To prevent these settings from resetting on every project, a neutral **stewardship function** is also required—so the “rules of repeatability” can be versioned, maintained, and reused.
 
 {{< img
 src="/images/2026-01-31-MT1/20260131-MMC1-1600.jpg"
@@ -68,6 +68,8 @@ Even with mature technical systems, MMC can fail to scale when delivery responsi
 
 This is often seen as “industry work”, and it is. But government can materially accelerate convergence by making these elements default in public procurement templates; by institutionalising what factory-based evidence is acceptable for compliance and acceptance; and by standardising handover and sign-off protocols so risk boundaries are clear and repeatable rather than re-negotiated on every project.
 
+In system terms, this is also where delivery “resilience” begins: not as a geography story, but as supplier architecture and repeatable capacity—clear capability declarations, bottleneck visibility, and safe substitution pathways that preserve compliance and quality without resetting the project.
+
 ### 3) Verifiable trust infrastructure: traceability, third-party certification, and bankability
 
 In MMC scale-up, trust is a form of currency. Without verifiable evidence, regulators tend to fall back to conservative inspection models; insurers price uncertainty into premiums; financiers tighten terms. The outcome is slower approvals and higher costs—precisely the opposite of what MMC is supposed to achieve.
@@ -75,6 +77,16 @@ In MMC scale-up, trust is a form of currency. Without verifiable evidence, regul
 For example, today’s trust mechanisms often swing between CodeMark and case-by-case determinations by surveyors or engineers. Both are expensive in different ways: CodeMark is time- and resource-intensive and cannot practically cover the full diversity of materials and systems; case-by-case determinations are difficult to replicate and subject to human variability. Add the reality that the “same” material can be registered under different entities and become non-interoperable, and the system produces repeated certification and repeated proof—creating friction and barriers rather than scalable confidence.
 
 A modern trust infrastructure has at least three parts: a component/system-level digital passport (unique ID, performance declarations, test records, audit links, installation and handover records); a third-party certification and audit pathway aligned with regulatory acceptance so evidence can travel and be reused; and a mechanism that converts trusted evidence into market outcomes—insurability, clearer warranty responsibility, and finance access (including green finance).
+
+---
+
+## The stewardship function that stops the system resetting
+
+The three blocks above do not close by goodwill alone. To become reusable across projects, they need a neutral stewardship function—an “industry conductor”—that keeps the shared settings current and usable.
+
+In practical terms, this stewardship function would maintain the conventions and templates that underpin repeatability: publish versions, run a clear change process with targeted consultation, maintain a registry of declared systems and evidence, enable lightweight interoperability checks (completeness and consistency, not heavy re-certification), and provide a dispute pathway that reduces repeated negotiation and ambiguity in liability boundaries.
+
+This is not about centralising the industry or picking winners. It is about making the minimum shared settings **stable enough to reuse** and **light enough to adopt**—so firms can compete and innovate inside clear boundaries.
 
 ---
 
@@ -90,7 +102,9 @@ If Victoria closes these gaps, MMC can move from isolated demonstrations to an o
 
 ## A brief note on overseas supply chains
 
-This piece does not expand on overseas supply chains as a complementary pathway—not because the potential isn’t real, but because the topic depends on more fundamental system capabilities: a common rules language, repeatable compliance and delivery mechanisms, and verifiable trust infrastructure. Without these foundations, cross-border capacity simply amplifies the same problem—from project-specific proof to cross-border project-specific proof.
+This piece does not expand on overseas supply chains as a complementary pathway—not because the potential isn’t real, but because the topic depends on more fundamental system capabilities: a common rules language, repeatable compliance and delivery mechanisms, and verifiable trust infrastructure.
+
+Here, “resilient supply chains” refers first to **repeatable delivery capacity** (supplier architecture, bottleneck/SPOF visibility, substitution pathways, and acceptance baselines), not a standalone discussion of offshore supply. Without these foundations, cross-border capacity simply amplifies the same problem—from project-specific proof to cross-border project-specific proof.
 
 In later research, once the “system bottom” is clearer, I will address how Asia–Pacific supply chains can become a constructive supplement through a closed loop of certification, traceability, insurance and finance.
 
