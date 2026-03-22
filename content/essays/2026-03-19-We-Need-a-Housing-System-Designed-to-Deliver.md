@@ -101,6 +101,9 @@ We know how to assemble buildings from precisely made parts.
 
 What we have not yet done is organise these capacities into a housing system strong enough to make them ordinary.
 
+The issue is not that these efforts were wrong.
+It is that they have not yet been enough to reorganise the whole system.
+
 We do not need another rediscovery.  
 We do not need another promise.  
 We do not need another fragment.
