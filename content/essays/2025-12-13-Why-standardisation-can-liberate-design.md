@@ -1,41 +1,26 @@
-+++  
-title = "Why standardisation can liberate design"  
-date = 2025-12-13T00:00:00+10:00  
-author = "Shu Guo"  
-copyright = """
-Text: © 2025 Shu Guo. All rights reserved.  
-Short excerpts may be quoted for non-commercial purposes with clear attribution to the author and shuguo.archi.  
-Reproduction of the full text, translation or adaptation requires prior written permission.
-
-Analytical drawings and diagrams (including “Standardisation & Poetic Space”):  
-© 2025 Shu Guo (compilation, redrawing and annotations).  
-Underlying source works remain © their respective rights holders.  
-These diagrams are presented for critical analysis, research and educational purposes.  
-Reproduction or adaptation requires prior written permission.
-
-Photographs: © 2025 Shu Guo. All rights reserved.  
-These images may not be reproduced or adapted without prior written permission.
-"""  
++++
+title = "Why Standardisation Can Liberate Design"
+date = 2025-12-13T00:00:00+10:00
+author = "Shu Guo"
+draft = false
+description = "Using the classical Chinese garden as a case study, this essay develops a three-layer diagram of modular poetics to show how deeply structured systems and the cai-fen system allowed standardisation to support, rather than suppress, design — and asks what that might mean for modern MMC."
+summary = "A study of classical Chinese gardens and modular systems arguing that standardisation, when properly structured, can support rather than suppress design."
 tags = [
-  "Essay",
-  "Visual-Essay",         # 表明是图文一体
-  "Mother-Map",           # 标记它属于母图系列
-  "Chinese-Architecture",
-  "Classical-Gardens",
-  "Modularity",
-  "System-Thinking",
-  "Construction-History",
-  "Prefabrication",
-  "MMC",
-  "Modular-Poetics",      # 核心理论
-  "Cai-Fen-System",       # 核心技术体系
-  "Housing-Crisis",
-  "Policy-Reform",
-  "Australia",
-  "Cross-cultural-communication"
-]  
-description = "Using the classical Chinese garden as a case study, this essay develops a three-layer diagram of ‘modular poetics’ to show how deeply structured systems and the *cai-fen* system allowed standardisation to support, rather than suppress, design — and asks what that might mean for modern MMC."
-draft = false  # 如果为 true，文章不会发布  
+  "chinese-architecture",
+  "classical-gardens",
+  "modularity",
+  "system-thinking",
+  "construction-history",
+  "prefabrication",
+  "mmc",
+  "modular-poetics",
+  "cai-fen-system",
+  "housing-crisis",
+  "policy-reform",
+  "australia",
+  "cross-cultural-communication"
+]
+categories = ["essays"]
 +++
 
 
@@ -83,7 +68,7 @@ Buju is the composition of the spatial poem. With the intent set, it arranges al
 **The diagram below is a three-layer sketch of that relationship:**  
 
 {{< img
-src="/images/2025-12-13-MT2/20251213-MT-Standadisation & Poetic Space.jpg"
+src="/images/2025-12-13-MT2/20251213-MT-Standardisation-and-Poetic-Space.jpg"
 alt="Diagram：Standardisation & Poetic Space"
 caption="Diagram：Standardisation & Poetic Space">}}
 

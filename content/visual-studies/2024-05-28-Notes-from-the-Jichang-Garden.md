@@ -3,21 +3,26 @@ title = "Notes from the Jichang Garden"
 date = 2024-05-28T00:00:00+10:00
 lastmod = 2025-10-19T00:00:00+10:00
 author = "Shu Guo"
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
-image_license = """
-All photographs and drawings: © Shu Guo. All rights reserved."""
-tags = [
-"Essay",
-"Jichang-Garden",
-"Classical-Gardens", 
-"Garden-Restoration",
-"Zheng-Li",
-"Qin-Family",
-"Wuxi"
-]
-description = "A personal account of a long-awaited visit to Wuxi's Jichang Garden, reflecting on its design, its centuries-old preservation by the Qin family, and the spirit of its late restorer, Mr. Zheng Li."
 draft = false
+description = "A reflective visit to Wuxi's Jichang Garden—part travel note, part spatial observation, part meditation on preservation, family continuity, and the lingering spirit of its late restorer, Zheng Li."
+summary = "A reflective note on Jichang Garden, its extraordinary spatial composition, its rare lineage of preservation, and the quiet presence of Zheng Li’s restoration."
+tags = [
+  "jichang-garden",
+  "wuxi",
+  "classical-gardens",
+  "garden-restoration",
+  "zheng-li",
+  "qin-family"
+]
+categories = ["visual-studies"]
+[cover]
+image = "/images/2024-05-27-jichang-garden/20240527-L1009202-Jichang-Garden.jpg"
+alt = "Notes from the Jichang Garden"
+relative = false
+hiddenInSingle = true
 +++
+
+{{< gallery >}}
 
 After seven consecutive days of work and rushing through ten cities, I stole a half-day of leisure before boarding my flight back to Australia to visit Wuxi's renowned Jichang Garden.
 
@@ -37,28 +42,42 @@ During Mr. Li’s later years in Melbourne, I had the good fortune to dine with 
 
 The young colleague who accompanied me, a Wuxi local, was unaware that Jichang Garden is considered one of the finest examples of Jiangnan literati gardens. Walking through it, he was moved to vow that he would take up the brush again and resume his long-abandoned calligraphy practice. Whether he will follow through remains unknown, yet the power of a classical garden to inspire moral refinement and self-cultivation was palpable in that moment.
 
+<figure>
+  <img src="/images/2024-05-27-jichang-garden/20240527-L1009202-Jichang-Garden.jpg"
+       alt="A pavilion viewed across the water, framed by lush greenery with the distant Longguang Pagoda visible in the background."
+       class="gallery-image"
+       data-fancybox="global-gallery"
+       data-caption="Image 1. The pavilion and distant pagoda seen across the pond, perfectly composed within a frame of ancient trees.">
+</figure>
 
-{{< img
-src="/images/2024-05-27-jichang-garden/20240527-L1009202-Jichang-Garden.jpg"
-alt="A pavilion viewed across the water, framed by lush greenery with the distant Longguang Pagoda visible in the background."
-caption="Image 1. The pavilion and distant pagoda seen across the pond, perfectly composed within a frame of ancient trees." >}}
+<figure>
+  <img src="/images/2024-05-27-jichang-garden/20240527-L1009192-Jichang-Garden.jpg"
+       alt="A pavilion and winding corridor curve along the lakeshore, with dense foliage covering nearly half the water surface."
+       class="gallery-image"
+       data-fancybox="global-gallery"
+       data-caption="Image 2. The pavilion and serpentine corridor follow the lake's contour, almost engulfed by the canopy that stretches over the water.">
+</figure>
 
-{{< img
-src="/images/2024-05-27-jichang-garden/20240527-L1009192-Jichang-Garden.jpg"
-alt="A pavilion and winding corridor curve along the lakeshore, with dense foliage covering nearly half the water surface."
-caption="Image 2. The pavilion and serpentine corridor follow the lake's contour, almost engulfed by the canopy that stretches over the water." >}}
+<figure>
+  <img src="/images/2024-05-27-jichang-garden/20240527-L1009168-Jichang-Garden.jpg"
+       alt="A panoramic view of the lake with both shores lined by lush trees, framing the pagoda atop the distant mountain at the center."
+       class="gallery-image"
+       data-fancybox="global-gallery"
+       data-caption="Image 3. A panoramic composition where trees on both shores converge to frame the mountain pagoda in perfect symmetry.">
+</figure>
 
-{{< img
-src="/images/2024-05-27-jichang-garden/20240527-L1009168-Jichang-Garden.jpg"
-alt="A panoramic view of the lake with both shores lined by lush trees, framing the pagoda atop the distant mountain at the center."
-caption="Image 3. A panoramic composition where trees on both shores converge to frame the mountain pagoda in perfect symmetry." >}}
+<figure>
+  <img src="/images/2024-05-27-jichang-garden/20240527-L1009206-Jichang-Garden.jpg"
+       alt="The corridor widens into a mid-point pavilion, creating architectural variation while separating water surfaces, with ancient trees and shrubs cascading to the water's edge."
+       class="gallery-image"
+       data-fancybox="global-gallery"
+       data-caption="Image 4. The corridor expands into an intermediate pavilion, its rhythmic variation articulated by the gnarled trunks of ancient trees and casually arranged shrubs.">
+</figure>
 
-{{< img
-src="/images/2024-05-27-jichang-Garden/20240527-L1009206-Jichang-Garden.jpg"
-alt="The corridor widens into a mid-point pavilion, creating architectural variation while separating water surfaces, with ancient trees and shrubs cascading to the water's edge."
-caption="Image 4. The corridor expands into an intermediate pavilion, its rhythmic variation articulated by the gnarled trunks of ancient trees and casually arranged shrubs." >}}
-
-{{< img
-src="/images/2024-05-27-jichang-garden/20240527-L1009205-Jichang-Garden.jpg"
-alt="The two-story Lingyun Pavilion partially concealed amidst the foliage, emerging subtly from the verdant surroundings."
-caption="Image 5. The Lingyun Pavilion, a two-story structure that plays hide-and-seek with the viewer through carefully managed layers of vegetation." >}}
+<figure>
+  <img src="/images/2024-05-27-jichang-garden/20240527-L1009205-Jichang-Garden.jpg"
+       alt="The two-story Lingyun Pavilion partially concealed amidst the foliage, emerging subtly from the verdant surroundings."
+       class="gallery-image"
+       data-fancybox="global-gallery"
+       data-caption="Image 5. The Lingyun Pavilion, a two-story structure that plays hide-and-seek with the viewer through carefully managed layers of vegetation.">
+</figure>

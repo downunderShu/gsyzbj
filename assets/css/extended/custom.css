@@ -33,3 +33,103 @@
 .post-meta time {
   color: var(--secondary);
 }
+
+.about-linkedin {
+  margin-top: 1.4rem;
+  margin-bottom: 0;
+}
+
+.about-linkedin a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--primary);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.about-linkedin a:hover {
+  opacity: 0.8;
+  transform: translateY(-1px);
+}
+
+.about-linkedin svg {
+  width: 1rem;
+  height: 1rem;
+  fill: currentColor;
+  flex-shrink: 0;
+}
+
+.about-page {
+  margin-top: 1.2rem;
+}
+.section-intro {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+/* Visual Studies: keep card stable, zoom image only on hover */
+.visual-card {
+  transform: none !important;
+}
+
+.visual-card:hover {
+  transform: none !important;
+}
+
+.visual-card-cover {
+  overflow: hidden;
+}
+
+.visual-card-cover img {
+  transition: transform 0.45s ease;
+  will-change: transform;
+}
+
+.visual-card:hover .visual-card-cover img {
+  transform: scale(1.05);
+}
+
+.section-visual-studies .article-card:hover {
+  transform: none;
+  box-shadow: none;
+  border-color: var(--border);
+}
+
+.home-featured {
+  margin: 1.5rem 0 2.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.home-feature-item {
+  padding: 1rem 1.1rem 1rem 1.2rem;
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--primary);
+  border-radius: 10px;
+  background: var(--entry);
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.home-feature-item:hover {
+  background: var(--code-bg);
+  border-color: var(--secondary);
+  transform: translateY(-1px);
+}
+
+.home-feature-item h3 {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+  font-size: 1.2rem;
+  line-height: 1.35;
+}
+
+.home-feature-item h3 a {
+  text-decoration: none;
+}
+
+.home-feature-item p {
+  margin: 0;
+}

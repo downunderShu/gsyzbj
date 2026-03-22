@@ -43,38 +43,28 @@
 
     {{ if .Params.copyright }}
     <div class="custom-copyright" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea;">
-      <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
-        <strong>License</strong>
-      </p>
-      <div style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.6;">
-        {{ .Params.copyright | markdownify | safeHTML }}
-      </div>
+      <h4 style="margin-bottom: 0.5rem;">License</h4>
+      {{ .Params.copyright | markdownify | safeHTML }}
     </div>
     {{ end }}
 
     {{ if .Params.image_license }}
-    <div class="image-license" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea;">
-      <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
-        <strong>Images</strong>
-      </p>
-      <div style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.6; white-space: pre-line;">
-        {{ .Params.image_license }}
-      </div>
+    <div class="image-license" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea; font-size: 0.9em;">
+      <h4 style="margin-bottom: 0.5rem;">Images</h4>
+      <div style="white-space: pre-line;">{{ .Params.image_license }}</div>
     </div>
     {{ end }}
 
-    {{ if and (not .Params.copyright) (not .Params.image_license) }}
     <div class="series-note" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea;">
       <p style="margin: 0 0 0.5rem 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
-        <strong>Copyright and image note</strong>
+        <strong>Copyright and source note</strong>
       </p>
       <p style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.6;">
-        Text, original photographs, diagrams, and annotations &copy; 2020–{{ now.Year }} Shu Guo unless otherwise
-        noted.<br>
-        Reproduced or adapted images remain the property of their respective owners where applicable.
+        Text &copy; {{ now.Year }} Shu Guo unless otherwise noted.<br>
+        Third-party quotations, screenshots, charts, images, and referenced materials remain the property of their
+        respective owners where applicable.
       </p>
     </div>
-    {{ end }}
 
     <div class="author-bio" style="margin: 2rem 0; padding: 1rem; border-top: 1px solid #eaeaea;">
       <p style="margin: 0; font-size: 0.9rem; color: #666; line-height: 1.5;">
@@ -82,6 +72,5 @@
         <a href="https://linkedin.com/in/shu-guo-80b69634" target="_blank" rel="noopener">Connect on LinkedIn</a>
       </p>
     </div>
-  </footer>
 </article>
 {{ end }}

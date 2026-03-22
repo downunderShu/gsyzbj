@@ -1,24 +1,26 @@
-+++  
-title = "An Ancient Fix for Australia's Modern Housing Crisis: Rethinking MMC"  
-date = 2025-10-03T00:00:00+10:00  
-lastmod = 2025-11-09T00:00:00+10:00  
-author = "Shu Guo"  
-copyright = "© 2025 Shu Guo. All rights reserved."  
-image_license = """  
-Image 1 & 2: © Shutterstock. Licensed for use in this publication.  
-Image 3 & 4: © Shu Guo. All rights reserved."""  
-tags = [  
-"Research",  
-"Prefabrication",  
-"Housing-Crisis",  
-"System-Thinking",  
-"Policy-Reform",  
-"Australia",
-"Cross-cultural-communication",
-"MMC"
-]  
-description = "How ancient Chinese building systems offer a blueprint for solving Australia's modern housing crisis through modular construction reform."  
-draft = false # 如果为true，文章不会发布  
++++
+title = "An Ancient Fix for Australia's Modern Housing Crisis: Rethinking MMC"
+date = 2025-10-03T00:00:00+10:00
+lastmod = 2025-11-09T00:00:00+10:00
+author = "Shu Guo"
+draft = false
+description = "How ancient Chinese building systems offer a blueprint for solving Australia's modern housing crisis through modular construction reform."
+summary = "A long-form essay arguing that solving Australia's housing crisis requires rethinking MMC not as isolated product innovation, but as a structured building system."
+tags = [
+  "prefabrication",
+  "housing-crisis",
+  "system-thinking",
+  "policy-reform",
+  "australia",
+  "cross-cultural-communication",
+  "mmc"
+]
+image_license = """
+Text, original diagrams, and annotations © 2020–2026 Shu Guo unless otherwise noted.
+Reproduced or adapted images remain the property of their respective owners where applicable.
+Image 1 & 2: © Shutterstock. Licensed for use in this publication.
+"""
+categories = ["essays"]
 +++
 
 

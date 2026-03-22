@@ -1,18 +1,18 @@
-+++  
-title = "The Brief Isn’t Given"  
-date = 2026-02-18T00:00:00+10:00  
-author = "Shu Guo"  
-copyright = "© 2026 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."  
-tags = [  
-"residential design",  
-"design brief",  
-"architecture theory",  
-"system thinking",  
-"MMC",  
-"judgement in design"  
-]  
-description = "A residential brief is rarely a clear problem statement. It is often a projection of desire. This essay argues that the brief is not the origin of design but a product of judgement—made possible when mature systems stabilise boundaries and reduce technical noise."  
-draft = false  
++++
+title = "The Brief Isn’t Given"
+date = 2026-02-18T00:00:00+10:00
+author = "Shu Guo"
+draft = false
+description = "A residential brief is rarely a clear problem statement. It is often a projection of desire. This essay argues that the brief is not the origin of design but a product of judgement—made possible when mature systems stabilise boundaries and reduce technical noise."
+summary = "A brief is not the origin of design. It is its outcome."
+tags = [
+  "design-brief",
+  "architecture-theory",
+  "system-thinking",
+  "mmc",
+  "judgement-in-design"
+]
+categories = ["essays"]
 +++
 
 Residential design usually begins with a document called a “brief.”  

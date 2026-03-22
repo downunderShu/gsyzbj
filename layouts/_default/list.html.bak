@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-{{- $pages := .RegularPages -}}
+{{- $pages := union .RegularPages .Sections -}}
 
 {{- if .IsHome -}}
   {{- $pages = slice -}}
@@ -445,13 +445,18 @@
 </div>
 
 {{- else -}}
+  {{- if not .IsHome -}}
+<div class="empty-section">
+  No entries yet.
+</div>
+  {{- end -}}
 {{- end -}}
 
 {{- if gt $paginator.TotalNumberOfElements 0 -}}
 <footer class="page-footer-copyright" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); text-align: center;">
   <div style="font-size: 0.9rem; color: var(--secondary); line-height: 1.5;">
     <p>&copy; {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
-    <p>Written and curated by Shu Guo. Connect on <a href="https://linkedin.com/in/shu-guo-80b69634" style="color: var(--secondary);">LinkedIn</a>.</p>
+    <p>Content by Shu Guo. Connect on <a href="https://linkedin.com/in/shu-guo-80b69634" style="color: var(--secondary);">LinkedIn</a></p>
   </div>
 </footer>
 {{- end -}}

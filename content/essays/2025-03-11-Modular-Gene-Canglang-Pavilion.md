@@ -3,21 +3,20 @@ title = "The Modular Gene of the Canglang Pavilion: Insights from a Song Dynasty
 date = 2025-03-11T00:00:00+10:00
 lastmod = 2025-10-15T00:00:00+10:00
 author = "Shu Guo"
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
-image_license = """
-All photographs and drawings: © Shu Guo. All rights reserved."""
-tags = [
-"Essay",
-"Canglang-Pavilion", 
-"Chinese-Architecture",
-"Modularity",
-"System-Thinking",
-"Prefabrication",
-"Song-Dynasty",
-"Classical-Gardens",
-]
-description = "A reflective essay exploring the sophisticated modular thinking embedded in the 11th-century Canglang Pavilion. This English piece, adapted for a Western professional audience, reveals how historical Chinese systems offer timeless lessons on design, prefabrication, and creative freedom."
 draft = false
+description = "A reflective essay on the modular intelligence embedded in the 11th-century Canglang Pavilion, showing how historical building systems can still inform contemporary design, prefabrication, and creative freedom."
+summary = "A reflective essay on the modular intelligence embedded in the 11th-century Canglang Pavilion, and what it reveals about design freedom within structured systems."
+tags = [
+  "canglang-pavilion",
+  "classical-gardens",
+  "song-dynasty",
+  "modularity",
+  "system-thinking",
+  "prefabrication",
+  "chinese-architecture"
+]
+categories = ["essays"]
+
 +++
 
 A headache, brought on by matters at work, was my companion to the Canglang Pavilion on a gloomy morning.
@@ -98,6 +97,6 @@ caption="Image 6. A solitary eave of Mianshui Xuan, echoing the rhythm of the Ca
 <div class="extended-reading" style="margin: 3rem 0; padding: 1.5rem; background: var(--content2); border-left: 4px solid #959ea9; border-radius: 4px; font-size: 0.9rem;">
     <p style="margin: 0 0 0.5rem 0; font-weight: 600; color: var(--primary);">Further Reading</p>
     <p style="font-style: italic; margin: 0; color: var(--secondary);">
-        This essay offers but a glimpse into the Canglang Pavilion. For a deeper visual exploration of its architectural details and spatial sequences, I invite you to the dedicated photographic curation: <a href="/gallery/2025-10-18-Decoding-Canglang-Pavilion/" style="color: #959ea9; font-weight: 500;">"The Canglang Pavilion: Mechanism and Poetry in Song Dynasty Space-Making"</a>. There, the image will be the sole narrative voice.
+        This essay offers but a glimpse into the Canglang Pavilion. For a deeper visual exploration of its architectural details and spatial sequences, I invite you to the dedicated photographic curation: <a href="/visual-studies/2025-10-18-The-Canglang-Pavilion-Mechanism-and-Poetry/" style="color: #959ea9; font-weight: 500;">"The Canglang Pavilion: Mechanism and Poetry in Song Dynasty Space-Making"</a>. There, the image will be the sole narrative voice.
     </p>
 </div>

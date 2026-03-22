@@ -1,22 +1,26 @@
 +++
+title = "Parallel Zhuozheng Garden"
+date = 2025-06-21T00:00:00+10:00
+lastmod = 2025-11-13T00:00:00+10:00
+author = "Shu Guo"
+draft = false
+description = "A visual meditation on Zhuozheng Garden. Through long-exposure photography, moving crowds dissolve into shadows, allowing the garden’s stillness, composition, and spatial intelligence to emerge."
+summary = "A visual study of Zhuozheng Garden using long-exposure photography to reveal stillness, composition, and the deeper order beneath tourist movement."
+tags = [
+  "zhuozheng-garden",
+  "suzhou",
+  "classical-gardens",
+  "photography",
+  "stillness",
+  "chinese-garden"
+]
+categories = ["visual-studies"]
 
-title = "Parallel Zhuozheng Garden"  
-date = 2025-06-21T00:00:00+10:00  
-lastmod = 2025-11-13T00:00:00+10:00  
-author = "Shu Guo"  
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."  
-image_license = "All photographs in this curation are original works by Shu Guo, captured in-situ at Zhuozheng Garden. © 2025 Shu Guo. All rights reserved."  
-tags = ["Curation",  
-"Zhuozheng-Garden",  
-"Suzhou",  
-"Classical-Gardens",  
-"Photography",  
-"Visual-Escape",  
-"Stillness",  
-"Chinese-Garden"  
-]  
-description = "A visual meditation that seeks a parallel Zhuozheng Garden. Through long-exposure photography, the bustling crowds are transformed into ethereal shadows, revealing the timeless tranquility and poetic composition at the heart of this classical masterpiece."  
-draft = false  
+[cover]
+image = "/images/2025-06-14-Zhuozheng-Garden/parallel-zhuozheng-garden-cover.jpg"
+alt = "Parallel Zhuozheng Garden"
+relative = false
+hiddenInSingle = true
 +++
 
 {{< gallery >}}

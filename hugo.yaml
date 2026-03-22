@@ -1,13 +1,16 @@
 baseURL: "https://shuguo.archi"
-title: "Shu Guo | Architecture & System"
-theme: PaperMod
-pagination.pagerSize: 7
-enableRobotsTXT: true
-enableGitInfo: true  # 显示最后修改时间
+title: "Shu Guo | Modular Poetics"
+theme: "PaperMod"
 
-defaultContentLanguage: en  # 主要语言设为英文
+pagination:
+  pagerSize: 7
+
+enableRobotsTXT: true
+enableGitInfo: true
+
+defaultContentLanguage: "en"
 languageCode: "en-us"
-hasCJKLanguage: true  # 启用中日韩文字优化
+hasCJKLanguage: true
 
 languages:
   en:
@@ -15,57 +18,77 @@ languages:
     weight: 1
 
 build:
-  writeStats: true  # 生成构建统计信息
-  useResourceCacheWhen: always  # 启用资源缓存
+  writeStats: true
+  useResourceCacheWhen: "always"
 
 menu:
   main:
-    - identifier: essays
-      name: Studies
-      url: /studies/
+    - identifier: industrial-signals
+      name: Industrial Signals
+      url: /industrial-signals/
       weight: 10
-    - identifier: gallery
-      name: Gallery
-      url: /gallery/
+
+    - identifier: field-notes
+      name: Field Notes
+      url: /field-notes/
       weight: 20
+
+    - identifier: visual-studies
+      name: Visual Studies
+      url: /visual-studies/
+      weight: 30
+
+    - identifier: essays
+      name: Essays
+      url: /essays/
+      weight: 40
+
     - identifier: about
       name: About
       url: /about/
-      weight: 30
+      weight: 50
 
 params:
   env: production
-  defaultTheme: auto  # 自动明暗模式
-  ShowPostMeta: true   # （默认值）
-  ShowPostCopyright: false  # 禁用主题默认
-  customCopyright: true     # 启用自定义
-  # 确保启用自定义头部
+  defaultTheme: auto
+
+  ShowPostMeta: true
+  ShowPostCopyright: false
+  customCopyright: true
   customHead: true
+
   footer:
     hideCopyright: true
-  
-  # 文章元数据
+
   ShowReadingTime: true
   ShowShareButtons: false
   ShowBreadCrumbs: true
   ShowPostNavLinks: true
 
-  # SEO基础配置
-  description: "Australian registered practitioner researching millennia-old Chinese architectural wisdom and classical gardens. Developing integrated systems that connect design, supply chain, and construction to liberate designers and focus on fundamental human experiences."
+  description: "A body of work by Shu Guo on modular poetics, housing systems, MMC, visual studies, and the design of delivery."
   author: "Shu Guo"
-  keywords: ["architecture", "systems thinking", "Chinese gardens", "prefabrication", "modular design", "traditional Chinese architecture", "construction methods", "designer liberation", "MMC", "Modern Methods of Construction", "housing crisis", "building systems"]
-  
-  # 社交媒体图片
-  images: ["/images/site-feature-image.jpg"]
-  
-  # Analytics配置 - 修复结构
+
+  keywords:
+    - modular poetics
+    - housing systems
+    - systems thinking
+    - MMC
+    - modern methods of construction
+    - prefabrication
+    - housing crisis
+    - design systems
+    - delivery systems
+    - visual studies
+    - classical gardens
+    - chinese architecture
+
+  images:
+    - /images/site-feature-image.jpg
+
   analytics:
     google:
-      SiteVerificationTag: ""  # 留空，因为我们不需要验证
-    # GA ID在extended_head.html中直接配置
+      SiteVerificationTag: ""
 
-  # 社交媒体链接 (按需修改)
-  socialIcons: []  # 清空所有默认图标
   socialIcons:
     - name: github
       url: "https://github.com/downunderShu"
@@ -79,14 +102,9 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe: true  # 允许原始 HTML
+      unsafe: true
   highlight:
-    style: github-dark  # 代码高亮主题
-
-# services:
-#   disqus:  # 如需评论系统
-#     shortname: your-disqus-shortname
-
+    style: github-dark
 
 outputs:
   home:

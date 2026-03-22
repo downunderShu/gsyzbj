@@ -3,28 +3,25 @@ title = "What’s Missing in Victoria’s MMC Statement—and Why It Matters"
 date = 2026-01-18T00:00:00+10:00
 lastmod = 2026-01-31T00:00:00+10:00
 author = "Shu Guo"
-copyright = "© 2026 Shu Guo. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License."
-image_license = """
-Diagram © 2026 Shu Guo. All rights reserved.
-Terms: Share unmodified with attribution to Shu Guo (shuguo.archi). No commercial use or derivatives without permission."""
-tags = [
-"Research",
-"MMC",
-"Victoria",
-"Policy",
-"Housing",
-"Prefabrication",
-"DfMA",
-"Regulatory-Reform",
-"System-Design",
-"Interoperability",
-"Repeatability",
-"Digital-Trust",
-"Verification",
-"Trust-Infrastructure"
-]
+draft = false
 description = "Updated with the MMC System Map: a critique of Victoria’s MMC Statement showing what’s present vs missing to scale beyond pilots—common language, an industry conductor, resilient delivery, and verifiable trust."
-draft = false # 如果为true，文章不会发布
+summary = "A critique of Victoria’s MMC Statement arguing that scaling MMC requires more than policy intent: it needs common language, system interoperability, resilient delivery, and trust infrastructure."
+tags = [
+  "mmc",
+  "victoria",
+  "policy",
+  "housing",
+  "prefabrication",
+  "dfma",
+  "regulatory-reform",
+  "system-design",
+  "interoperability",
+  "repeatability",
+  "digital-trust",
+  "verification",
+  "trust-infrastructure"
+]
+categories = ["essays"]
 +++
 
 Victoria’s MMC Statement is a meaningful step. It positions MMC as a practical lever for Australia’s housing challenge: faster delivery, higher quality, stronger cost certainty, and lower carbon. It also signals intent across regulation, approvals, skills and government procurement.

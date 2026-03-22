@@ -3,22 +3,24 @@ title = "The Canglang Pavilion: Mechanism and Poetry in Song Dynasty Space-Makin
 date = 2025-10-15T00:00:00+10:00
 lastmod = 2025-10-15T00:00:00+10:00
 author = "Shu Guo"
-copyright = "© 2025 Shu Guo. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
-image_license = """
-Photographs: © 2025 Shu Guo. All rights reserved.
-Analytical Drawings (Plans, Sections, Diagrams): © 2025 Shu Guo. Compilation and annotations. Original underlying works © their respective owners. These drawings are provided for critical analysis, research, and educational use under fair use principles.
-"""
-tags = [
-"Curation",
-"Canglang-Pavilion",
-"Spatial-Analysis", 
-"Classical-Gardens",
-"Chinese-Architecture",
-"Song-Dynasty",
-"Suzhou"
-]
-description = "A visual curation decoding the Canglang Pavilion's sophisticated spatial mechanisms. Through plans, photographs, and analysis, this exhibition reveals how an 11th-century garden orchestrates a timeless dialogue between architecture and nature through precise spatial instruments."
 draft = false
+description = "A visual decoding of the Canglang Pavilion's spatial mechanisms. Through plans, photographs, and analysis, this study reveals how an 11th-century garden orchestrates a timeless dialogue between architecture and nature."
+summary = "A visual study of the Canglang Pavilion, using plans, photographs, and analysis to reveal how Song-dynasty space-making achieved both mechanism and poetry."
+tags = [
+  "canglang-pavilion",
+  "spatial-analysis",
+  "classical-gardens",
+  "chinese-architecture",
+  "song-dynasty",
+  "suzhou"
+]
+categories = ["visual-studies"]
+
+[cover]
+image = "/images/2025-02-20-Canglangting/20250220-L1009344-Canglang-Pavilion-thumb.jpg"
+alt = "The Canglang Pavilion: Mechanism and Poetry in Song Dynasty Space-Making"
+relative = false
+hiddenInSingle = true
 +++
 
 {{< gallery >}}
@@ -147,7 +149,7 @@ The Canglang Pavilion is a crystallisation of Song Dynasty spatial intelligence.
 
 ## Part 6: The Fabric of Place
 
-*The built elements are but actors on a stage set by an idealized nature, where every tree and path is an artistic composition. This is the supreme achievement of the Chinese garden: “made by man, as if opened by heaven itself.*
+*The built elements are but actors on a stage set by an idealized nature, where every tree and path is an artistic composition. This is the supreme achievement of the Chinese garden: “made by man, as if opened by heaven itself.”*
 
 <figure>
   <img src="/images/2025-02-20-Canglangting/20250220-L1009338-Canglang-Pavilion.jpg"
@@ -194,13 +196,13 @@ Yet this very obstruction reveals the pavilion's deeper wisdom. Through the Doub
 
 Conversely, from the external water's edge looking in, visitors can clearly see the pavilion's elegant roof structure rising above the corridor. The same architectural element that conceals from within reveals from without.
 
-Herein lies the marvel: within the space of a few steps, at different heights and positions, entirely distinct landscapes and experiences unfold. Even the view of the Canglang Pavilion changes dramatically from inside versus outside parts the Double Corridor. This sophisticated manipulation of visibility and separation creates not limitation, but liberation—offering multiple, coexisting realities within a single garden.
+Herein lies the marvel: within the space of a few steps, at different heights and positions, entirely distinct landscapes and experiences unfold. Even the view of the Canglang Pavilion changes dramatically from inside versus outside the Double Corridor. This sophisticated manipulation of visibility and separation creates not limitation, but liberation—offering multiple, coexisting realities within a single garden.
 
 The true genius of this Song Dynasty design lies not in what it shows us, but in what it chooses to conceal—and in the profound different worlds it creates through that very act of concealment.
 
 <div class="extended-reading" style="margin: 3rem 0; padding: 1.5rem; background: var(--content2); border-left: 4px solid #959ea9; border-radius: 4px; font-size: 0.9rem;">
     <p style="margin: 0 0 0.5rem 0; font-weight: 600; color: var(--primary);">Further Reading</p>
     <p style="font-style: italic; margin: 0; color: var(--secondary);">
-        For a companion piece that begins with personal sensation in the Cuilinglong and the Canglang Pavilion itself, and ascends to systemic contemplation, see the reflective essay: <a href="/studies/2025-10-10-Canglang-Pavilion/" style="color: #959ea9; font-weight: 500;">"The Modular Gene of the Canglang Pavilion"</a>. It traces how immediate, poetic experience is fundamentally enabled by the invisible scaffold of a modular system.
+        For a companion piece that begins with personal sensation in the Cuilinglong and the Canglang Pavilion itself, and ascends to systemic contemplation, see the reflective essay: <a href="/essays/2025-03-11-Modular-Gene-Canglang-Pavilion/" style="color: #959ea9; font-weight: 500;">"The Modular Gene of the Canglang Pavilion"</a>. It traces how immediate, poetic experience is fundamentally enabled by the invisible scaffold of a modular system.
     </p>
 </div>

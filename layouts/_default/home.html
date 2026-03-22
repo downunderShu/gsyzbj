@@ -1,0 +1,12 @@
+{{- define "main" -}}
+<article class="post-single page-home">
+  <div class="post-content">
+    {{ .Content }}
+  </div>
+
+  <footer class="section-footer" style="margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); text-align: center; color: var(--secondary); font-size: 0.9rem;">
+    <p>© {{ now.Year }} {{ .Site.Title }}. All rights reserved.</p>
+    <p>Written and curated by Shu Guo. Connect on <a href="https://linkedin.com/in/shu-guo-80b69634" style="color: var(--secondary);">LinkedIn</a>.</p>
+  </footer>
+</article>
+{{- end -}}
