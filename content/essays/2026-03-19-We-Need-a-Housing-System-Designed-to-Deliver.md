@@ -26,9 +26,9 @@ categories = ["essays"]
 
 +++
 
-5 months ago — the Victorian Government released its Modern Methods of Construction statement.[1]  
-50 years ago — a federal government report was already making a similar case.[2]  
-100 years ago — Le Corbusier was already calling for the spirit of mass-production housing.[3]
+**5 months ago** — the Victorian Government released its Modern Methods of Construction statement.[1]  
+**50 years ago** — a federal government report was already making a similar case.[2]  
+**100 years ago** — Le Corbusier was already calling for the spirit of mass-production housing.[3]
 
 The argument is not new.  
 The urgency is not new.  
@@ -40,8 +40,8 @@ For at least a century, modern societies have understood the same basic truth:
 
 And if that still sounds like a modern proposition, we can look much further back.
 
-600 years ago — the Forbidden City was built with a level of coordination, repetition, logistics and assembly that still overwhelms the imagination.[4]  
-1,000 years ago — *Yingzao Fashi* had already turned building into a governed system.[5]
+**600 years ago** — the Forbidden City was built with a level of coordination, repetition, logistics and assembly that still overwhelms the imagination.[4]  
+**1,000 years ago** — *Yingzao Fashi* had already turned building into a governed system.[5]
 
 From ancient China to modern Europe, from imperial coordination to industrial theory, people have been grappling with the same civilisational problem:
 
@@ -101,9 +101,9 @@ We know how to assemble buildings from precisely made parts.
 
 What we have not yet done is organise these capacities into a housing system strong enough to make them ordinary.
 
-**We do not need another rediscovery.  
+We do not need another rediscovery.  
 We do not need another promise.  
-We do not need another fragment.**
+We do not need another fragment.
 
 **We need a housing system designed to deliver.**
 
