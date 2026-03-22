@@ -11,3 +11,14 @@
 [build.environment]
   # 如果是 Hugo 扩展版（Extended），必须启用
   HUGO_EXTENDED = "true"
+
+# Legacy studies -> essays redirects
+[[redirects]]
+  from = "/studies/2026-02-18-the-brief-is-not-given/"
+  to = "/essays/2026-02-18-the-brief-is-not-given/"
+  status = 301
+
+[[redirects]]
+  from = "/studies/2026-01-18-whats-missing-in-victorias-mmc-statement/"
+  to = "/essays/2026-01-18-whats-missing-in-victorias-mmc-statement/"
+  status = 301
