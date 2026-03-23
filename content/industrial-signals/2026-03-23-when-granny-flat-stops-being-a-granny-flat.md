@@ -4,7 +4,7 @@ date: 2026-03-23T09:00:00+11:00
 author: "Shu Guo"
 draft: false
 description: "Tasmania’s move to increase secondary dwellings from 60m² to 90m² may look minor, but at that size the real issue is no longer what the dwelling is called. It is who is allowed to live there."
-summary: "At 90m², a so-called granny flat starts to function less like dependent accommodation and more like distributed infill housing. The deeper question is occupancy logic, not just built form."
+summary: "At 90m², a so-called granny flat starts to function less like dependent accommodation and more like a potential form of distributed infill housing. The deeper question is occupancy logic, not just built form."
 tags:
   - secondary-dwellings
   - granny-flat
@@ -18,28 +18,29 @@ categories:
   - industrial-signals
 ---
 
+## Signal
+
 Tasmania is increasing the allowable size of secondary dwellings from 60m² to 90m².
+
+## Why it matters
 
 On paper, that can look like a modest planning adjustment.
 
-In practice, it may be something else.
+In practice, it may be something more consequential.
 
-At 90m², this is no longer just a “granny flat” in any meaningful housing sense. It begins to operate as a form of distributed infill housing.
+At 90m², this is no longer just a “granny flat” in any meaningful housing sense. It starts to approach the scale of a genuine small dwelling — one capable, at least physically, of supporting couples, downsizers, independent adult children, and in some cases even small family households.
 
-That matters because the key issue is no longer simply what can be built. It is who is allowed to live there.
+That makes the key issue less about floor area alone, and more about what the planning system will allow that built form to become.
 
-If a secondary dwelling can comfortably support couples, small families, independent adult children, or rental households, then the policy is no longer just about dependent accommodation. It becomes a quiet mechanism for increasing housing density without the political visibility of conventional medium-density reform.
+## System angle
 
-Some of the most consequential housing changes do not arrive as major apartment policy. They arrive disguised as small planning adjustments that expand household formation, backyard infill, and low-visibility density.
+The real question is no longer simply what can be built.
 
-The real impact of this change will depend on what follows:
+It is who is allowed to live there.
 
-- Who is legally permitted to occupy the dwelling
-- Whether independent rental is allowed
-- Whether owner-occupier or family-member restrictions remain
-- How consistently councils interpret the new rule
+If the occupancy rules remain narrow, the reform may remain largely symbolic. But if broader household use or independent occupation is allowed, the change starts to behave very differently.
 
-Once a granny flat reaches 90m², the real question is no longer what it is called. It is who is allowed to live there.
+It stops being a small concession to backyard accommodation and starts to look like a quiet pathway to distributed infill density.
 
 ## Source
-- ABC News (Tasmania housing / planning coverage)
+- https://www.abc.net.au/news/2026-03-18/tas-brighton-council-to-waive-year-of-rates-for-first-home-build/106467108

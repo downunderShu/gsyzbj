@@ -11,42 +11,40 @@ tags:
   - planning
   - lot-size
   - medium-density
-  - housing-delivery
-  - mmc
   - urban-economics
+  - housing-delivery
 categories:
   - industrial-signals
 ---
 
-If land prices rise much faster than construction and labour costs, then the housing problem shifts upstream.
+## Signal
 
-That matters because it changes the terms of the debate.
+Land prices have reportedly risen much faster than construction and labour costs over the long term.
 
-Housing conversations often focus on:
+## Why it matters
 
-- How to build cheaper
-- How to build faster
-- How to reduce labour intensity
-- How to improve construction productivity
+This shifts the housing problem upstream.
 
-All of that matters.
+If land inflates faster than building, then construction productivity alone cannot restore affordability.
 
-But if the lot itself is oversized, scarce, or economically misaligned with demand, then better building only solves part of the problem.
+The system must also change how it uses land.
 
-In that sense, housing affordability is not only a construction problem. It is also a land format problem.
+That means the housing response cannot rely only on:
+- faster building
+- cheaper building
+- reduced labour intensity
 
-If land inflates faster than building, the system cannot rely only on productivity gains at the construction end. It must also change how it consumes land.
+It also has to address lot structure, land release, density distribution, and the geometry of what is being delivered.
 
-A realistic response may require two moves together:
-
-- Increasing the share of small lots
-- Introducing mid-rise housing in the right places
-
-That is not a stylistic preference. It is a land-efficiency strategy.
-
-This is why construction innovation, on its own, is never enough. A better delivery system matters. But it still has to sit on a land system capable of producing the right housing formats at the right scale.
+## System angle
 
 Better building cannot fully solve bad lot economics.
+
+A realistic response may require two moves together:
+- increasing the share of small lots
+- introducing mid-rise housing in the right places
+
+That is not a stylistic choice. It is a land-efficiency strategy.
 
 ## Source
 - https://www.abc.net.au/news/2026-02-18/land-prices-blocking-new-housing-report-finds/106349190

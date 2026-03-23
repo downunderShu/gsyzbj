@@ -11,34 +11,33 @@ tags:
   - density
   - planning
   - state-intervention
-  - transport-oriented-development
+  - transport
   - housing-pipeline
 categories:
   - industrial-signals
 ---
 
+## Signal
+
 NSW is continuing to push major higher-density housing in the Bays West / White Bay precinct.
+
+## Why it matters
 
 This is primarily a record signal, but it reinforces a familiar pattern.
 
-Large-scale urban housing supply in Australia still tends to move where:
+Large-scale urban housing supply still tends to move where:
+- public land is available
+- transport logic is strong
+- state intervention is visible
+- density can be framed as renewal
 
-- Public land is available
-- Transport logic is strong
-- State intervention is visible
-- Density can be framed as renewal rather than simply more buildings
+That is worth noticing because it reminds us that major urban density often depends less on spontaneous market movement than on strategic land control and political choreography.
 
-That is worth noticing.
+## System angle
 
-Because despite all the language of market-led supply, major urban density often still depends on strategic land and political choreography.
+Density remains most politically legible where land, transport, and state coordination align.
 
-This is not spontaneous densification. It is state-enabled concentration.
-
-That does not make it unimportant. Quite the opposite.
-
-It suggests that, in practice, density remains most politically legible where land, transport, and state coordination align.
-
-For now, this is less a standalone thesis than a useful recurring marker: another reminder that large housing pipelines still tend to emerge where public control and urban narrative can do the work that ordinary planning settings often cannot.
+This is not yet a deep thesis piece on its own, but it is an important recurring marker of where housing pipelines become actionable.
 
 ## Source
 - https://www.theurbandeveloper.com/articles/bays-west-precinct-replaces-cement-storage-with-8500-homes
