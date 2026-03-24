@@ -20,7 +20,7 @@ categories:
 
 ## Signal
 
-Victoria is introducing a Mid-Rise Code for four- to six-storey apartment projects.
+Victoria is introducing a Mid-Rise Code for four- to six-storey apartment projects. 
 
 Projects that comply with the code are intended to move through a faster and more predictable approval pathway, with the government stating average approval times may be reduced by around five months.
 
