@@ -18,8 +18,6 @@ categories:
   - industrial-signals
 ---
 
-# When Housing Replaces the Port That Feeds Housing
-
 NSW’s Bays West promises up to 8,500 homes on Glebe Island.  
 It will also end bulk cement and gypsum handling there by 2030.
 
