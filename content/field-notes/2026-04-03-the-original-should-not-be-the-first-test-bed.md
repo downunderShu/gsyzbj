@@ -1,6 +1,6 @@
 ---
 title: "The Original Should Not Be the First Test Bed"
-date: 2026-04-04T10:30:00+11:00
+date: 2026-04-03T10:30:00+11:00
 draft: false
 description: "Yingxian Wooden Pagoda offers a systems lesson: when critical truths cannot be fully discovered on paper, the original should not be the first test bed."
 summary: "A system’s deeper job is not only to coordinate what is known, but to contain what is not yet known and place that uncertainty where it can be survived."

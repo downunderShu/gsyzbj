@@ -1,6 +1,6 @@
 ---
 title: "Insurance Is a Delayed Verdict on System Quality"
-date: 2026-04-04T08:30:00+11:00
+date: 2026-04-03T08:30:00+11:00
 draft: false
 description: "APRA’s latest Insurance Climate Vulnerability Assessment suggests Australia’s housing problem is not only about planning or construction, but also about trust, insurability, and the long-term risk quality of the built outcome."
 summary: "Insurance is not just a cost of ownership. It is a delayed verdict on system quality."
