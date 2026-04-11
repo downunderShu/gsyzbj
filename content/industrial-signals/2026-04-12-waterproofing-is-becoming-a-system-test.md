@@ -1,6 +1,6 @@
 ---
 title: "Waterproofing Is Becoming a System Test"
-date: 2026-04-12T20:30:00+08:00
+date: 2026-04-12T01:30:00+08:00
 draft: false
 type: industrial-signals
 description: "The NCC 2025 preview points to a deeper shift: waterproofing is moving from trade execution toward system-level design, inspection and sign-off."
