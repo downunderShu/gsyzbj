@@ -1,5 +1,5 @@
 ---
-title: "MMC cannot scale on bespoke trust"
+title: "MMC Cannot Scale On Bespoke Trust"
 date: 2026-04-20
 draft: false
 description: "Builder collapse insurance claims, defect enforcement, and BTR-specific underwriting all point to the same problem: MMC does not scale on factory output alone. It scales when trust becomes reusable."
