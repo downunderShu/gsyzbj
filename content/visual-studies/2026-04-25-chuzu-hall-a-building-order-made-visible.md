@@ -4,7 +4,7 @@ date = 2026-04-25
 summary = "A visual study of Chuzu Hall at Chuzu Hermitage, focusing on how the building makes a timber order legible through inclination, bracketed transition, exposed structure, and ritual adaptation."
 [cover]
 image = "/images/2026-04-25-chuzudian/3.1-cover.jpg"
-alt = "Chuzu Hall at Chuzu Hermitage"
+alt = "Corner column and bracketed eaves of Chuzu Hall"
 relative = false
 hiddenInSingle = true
 +++
@@ -26,11 +26,13 @@ Chuzu Hall, the main hall of Chuzu Hermitage behind Shaolin Monastery, is often 
 The first view matters because it establishes the terms of reading. Chuzu Hall is not overwhelming by scale alone. What makes it powerful is that its order is visible early. Even before close inspection, the building presents itself as something disciplined, adjusted, and internally coherent.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/1.1.jpg"
-       alt="Overall frontal view of Chuzu Hall at Chuzu Hermitage."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 1. Overall frontal view of Chuzu Hall, establishing the hall as a compact but highly legible timber order.">
+  <a href="/images/2026-04-25-chuzudian/1.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 1. Overall frontal view of Chuzu Hall, establishing the hall as a compact but highly legible timber order.">
+    <img src="/images/2026-04-25-chuzudian/1.1.jpg"
+         alt="Overall frontal view of Chuzu Hall at Chuzu Hermitage."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 1. The Whole Stands First
@@ -40,19 +42,23 @@ Before details, the building already announces several structural intentions. In
 The rear elevation provides another crucial clue. By compressing the three horizontal members within a single frame, the photograph makes the rise more readable: lower in the middle, higher toward both ends. This is not a perspectival correction in the Greek sense. It is a constructive and visual adjustment within a timber system—one that reinforces emphasis, bearing, and the felt stability of the whole.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/3.1.jpg"
-       alt="Oblique exterior view of Chuzu Hall showing the corner column inclination and deep eaves."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 2. Oblique view of the hall, where the inward inclination of the corner column becomes especially legible.">
+  <a href="/images/2026-04-25-chuzudian/3.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 2. Oblique view of the hall, where the inward inclination of the corner column becomes especially legible.">
+    <img src="/images/2026-04-25-chuzudian/3.1.jpg"
+         alt="Oblique exterior view of Chuzu Hall showing the corner column inclination and deep eaves."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/3.2.jpg"
-       alt="Rear elevation of Chuzu Hall showing the rise of the horizontal members toward both ends."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 3. Rear elevation beneath the eaves, showing the rise of the horizontal members toward both ends.">
+  <a href="/images/2026-04-25-chuzudian/3.2.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 3. Rear elevation beneath the eaves, showing the rise of the horizontal members toward both ends.">
+    <img src="/images/2026-04-25-chuzudian/3.2.jpg"
+         alt="Rear elevation of Chuzu Hall showing the rise of the horizontal members toward both ends."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 2. Corners as Compression
@@ -66,19 +72,23 @@ A mature building system does not prove itself where constraints are minimal. It
 At Chuzu Hall, the corner is especially useful because the building is small enough to read closely, yet sophisticated enough to show how many different operations are forced to cooperate within a very limited spatial field.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/4.4.jpg"
-       alt="Corner view of Chuzu Hall showing bracket sets, eaves projection, and roof convergence."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 4. Corner view, where multiple structural and visual operations are compressed into a single readable zone.">
+  <a href="/images/2026-04-25-chuzudian/4.4.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 4. Corner view, where multiple structural and visual operations are compressed into a single readable zone.">
+    <img src="/images/2026-04-25-chuzudian/4.4.jpg"
+         alt="Corner view of Chuzu Hall showing bracket sets, eaves projection, and roof convergence."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/4.5.jpg"
-       alt="Upward view of the corner of Chuzu Hall showing the underside of the eaves and corner structure."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 5. Upward view at the corner, clarifying how eaves projection, bracketing, and roof transition are concentrated at the edge.">
+  <a href="/images/2026-04-25-chuzudian/4.5.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 5. Upward view at the corner, clarifying how eaves projection, bracketing, and roof transition are concentrated at the edge.">
+    <img src="/images/2026-04-25-chuzudian/4.5.jpg"
+         alt="Upward view of the corner of Chuzu Hall showing the underside of the eaves and corner structure."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 3. Bracket Sets as Transition, Not Ornament
@@ -90,19 +100,33 @@ Seen from the front, side, and oblique angle, the bracket sets are best understo
 That is one reason Chuzu Hall remains such a strong teaching object: the bracket sets do not disappear into abstraction. They remain materially explicit.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/4.1.jpg"
-       alt="Frontal view of the bracket sets beneath the eaves of Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 6. Frontal view of the bracket sets, read as structural transition rather than applied ornament.">
+  <a href="/images/2026-04-25-chuzudian/4.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 6. Frontal view of the bracket sets, read as structural transition rather than applied ornament.">
+    <img src="/images/2026-04-25-chuzudian/4.1.jpg"
+         alt="Frontal view of the bracket sets beneath the eaves of Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/4.3.jpg"
-       alt="Oblique close view of the bracket sets at Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 7. Oblique view of the bracket sets, where layered projection and transfer become more readable.">
+  <a href="/images/2026-04-25-chuzudian/4.2.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 7. Side view of the bracket sets, clarifying projection, depth, and the outward transition from column line to eave edge.">
+    <img src="/images/2026-04-25-chuzudian/4.2.jpg"
+         alt="Side view of the bracket sets beneath the eaves of Chuzu Hall."
+         class="gallery-image">
+  </a>
+</figure>
+
+<figure>
+  <a href="/images/2026-04-25-chuzudian/4.3.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 8. Oblique view of the bracket sets, where layered projection and transfer become more readable.">
+    <img src="/images/2026-04-25-chuzudian/4.3.jpg"
+         alt="Oblique close view of the bracket sets at Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 4. Standardisation Without Sameness
@@ -114,11 +138,13 @@ Standardisation does not eliminate design. It stabilises a shared language of pa
 This is why the building is so compelling in person. One does not see a formula. One sees control.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/5.3.jpg"
-       alt="Grouped view of columns and related structural members at Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 8. Grouped view of columnar and structural elements, useful for reading variation within a stable system of parts.">
+  <a href="/images/2026-04-25-chuzudian/5.3.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 9. Grouped view of columnar and structural elements, useful for reading variation within a stable system of parts.">
+    <img src="/images/2026-04-25-chuzudian/5.3.jpg"
+         alt="Grouped view of columns and related structural members at Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 5. Material Junctions and Carved Surfaces
@@ -130,27 +156,33 @@ Stone does not simply sit below wood as a mute base. At several points, the meet
 At the same time, some members become image-bearing surfaces. The carved column is not outside the system. It is part of the inhabited reality of the hall: structural, tactile, and ritualised at once.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/5.5.jpg"
-       alt="Detail of a column head and its transition into the upper timber members."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 9. Column-head detail, where the transition from vertical support into the upper timber system becomes especially clear.">
+  <a href="/images/2026-04-25-chuzudian/5.5.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 10. Column-head detail, where the transition from vertical support into the upper timber system becomes especially clear.">
+    <img src="/images/2026-04-25-chuzudian/5.5.jpg"
+         alt="Detail of a column head and its transition into the upper timber members."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/5.4.jpg"
-       alt="Close-up of carved detail on an interior golden column at Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 10. Close-up of carving on an interior golden column, showing how structural members also become image-bearing surfaces.">
+  <a href="/images/2026-04-25-chuzudian/5.4.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 11. Close-up of carving on an interior golden column, showing how structural members also become image-bearing surfaces.">
+    <img src="/images/2026-04-25-chuzudian/5.4.jpg"
+         alt="Close-up of carved detail on an interior golden column at Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/5.2.jpg"
-       alt="Detail of stone material and lower structural articulation at Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 11. Lower material articulation, where stone and timber meet at a controlled boundary.">
+  <a href="/images/2026-04-25-chuzudian/5.2.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 12. Lower material articulation, where stone and timber meet at a controlled boundary.">
+    <img src="/images/2026-04-25-chuzudian/5.2.jpg"
+         alt="Detail of stone material and lower structural articulation at Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 6. Structure Remains Visible
@@ -162,27 +194,33 @@ One view centres on a column where multiple members converge. Another looks upwa
 This matters because many historic buildings are discussed in terms of form or atmosphere while their structural intelligence is hidden. Here, the intelligence remains visible.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/6.1.jpg"
-       alt="Interior view centred on a column where multiple beams and members converge."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 12. A column-centred structural node, where vertical support and multiple timber members converge into a single legible junction.">
+  <a href="/images/2026-04-25-chuzudian/6.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 13. A column-centred structural node, where vertical support and multiple timber members converge into a single legible junction.">
+    <img src="/images/2026-04-25-chuzudian/6.1.jpg"
+         alt="Interior view centred on a column where multiple beams and members converge."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/7.2.jpg"
-       alt="Upward interior view into the layered roof frame of Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 13. Looking upward into the roof frame, where structural density remains layered and readable.">
+  <a href="/images/2026-04-25-chuzudian/7.2.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 14. Looking upward into the roof frame, where structural density remains layered and readable.">
+    <img src="/images/2026-04-25-chuzudian/7.2.jpg"
+         alt="Upward interior view into the layered roof frame of Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/7.5.jpg"
-       alt="Interior structural detail showing different bearing members meeting the roof frame."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 14. Different bearing members meet the roof structure in distinct ways; the interior frame is differentiated rather than merely repetitive.">
+  <a href="/images/2026-04-25-chuzudian/7.5.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 15. Different bearing members meet the roof structure in distinct ways; the interior frame is differentiated rather than merely repetitive.">
+    <img src="/images/2026-04-25-chuzudian/7.5.jpg"
+         alt="Interior structural detail showing different bearing members meeting the roof frame."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 7. Murals Within the Ritual Interior
@@ -194,11 +232,13 @@ That matters methodologically. A building like this is easy to over-read as pure
 The mural therefore matters not only iconographically, but architecturally: it restores the hall to use, not just construction.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/9.1.jpg"
-       alt="Interior mural on the wall of Chuzu Hall."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 15. Wall painting inside the hall, returning the interior to ritual and image rather than structure alone.">
+  <a href="/images/2026-04-25-chuzudian/9.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 16. Wall painting inside the hall, returning the interior to ritual and image rather than structure alone.">
+    <img src="/images/2026-04-25-chuzudian/9.1.jpg"
+         alt="Interior mural on the wall of Chuzu Hall."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 8. Ritual Reworks Structure
@@ -210,11 +250,13 @@ A historic building is never encountered as a single frozen moment. What we see 
 That does not weaken its value. It makes the building more truthful.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/8.1.jpg"
-       alt="Interior view showing the set-back position of the golden columns in relation to the altar space."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 16. Interior view showing the set-back position of the golden columns, where ritual arrangement has reworked the spatial reading of the structure.">
+  <a href="/images/2026-04-25-chuzudian/8.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 17. Interior view showing the set-back position of the golden columns, where ritual arrangement has reworked the spatial reading of the structure.">
+    <img src="/images/2026-04-25-chuzudian/8.1.jpg"
+         alt="Interior view showing the set-back position of the golden columns in relation to the altar space."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## 9. Roofline and Afterlife
@@ -226,19 +268,23 @@ At the level of outline, ornament, ridge, and roof-end treatment, the building r
 This is especially true in a building like Chuzu Hall, where so much of the order remains legible below. The roof completes that legibility while also complicating it.
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/10.1.jpg"
-       alt="Roof detail of Chuzu Hall showing ridge and roof-end articulation."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 17. Roof detail, where structural outline and symbolic finishing meet at the upper edge of the building.">
+  <a href="/images/2026-04-25-chuzudian/10.1.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 18. Roof detail, where structural outline and symbolic finishing meet at the upper edge of the building.">
+    <img src="/images/2026-04-25-chuzudian/10.1.jpg"
+         alt="Roof detail of Chuzu Hall showing ridge and roof-end articulation."
+         class="gallery-image">
+  </a>
 </figure>
 
 <figure>
-  <img src="/images/2026-04-25-chuzudian/10.2.jpg"
-       alt="Additional roof detail of Chuzu Hall showing the roofline and ornamental termination."
-       class="gallery-image"
-       data-fancybox="global-gallery"
-       data-caption="Image 18. Roofline and ornamental termination, recording both design intention and the building’s long afterlife.">
+  <a href="/images/2026-04-25-chuzudian/10.2.jpg"
+     data-fancybox="global-gallery"
+     data-caption="Image 19. Roofline and ornamental termination, recording both design intention and the building’s long afterlife.">
+    <img src="/images/2026-04-25-chuzudian/10.2.jpg"
+         alt="Additional roof detail of Chuzu Hall showing the roofline and ornamental termination."
+         class="gallery-image">
+  </a>
 </figure>
 
 ## Closing Note
