@@ -3,6 +3,7 @@ title = "Chuzu Hall: A Building Order Made Visible"
 date = 2026-04-25
 author = "Shu Guo"
 summary = "A visual study of Chuzu Hall at Chuzu Hermitage, focusing on how the building makes a timber order legible through inclination, bracketed transition, exposed structure, and ritual adaptation."
+tags = ["chuzu-hermitage", "chuzu-hall", "yingzao-fashi", "song-dynasty-architecture", "chinese-timber-architecture", "dougong", "visual-study"]
 categories = ["visual-studies"]
 
 [cover]
