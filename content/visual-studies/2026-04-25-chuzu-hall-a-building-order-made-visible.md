@@ -1,7 +1,10 @@
 +++
 title = "Chuzu Hall: A Building Order Made Visible"
 date = 2026-04-25
+author = "Shu Guo"
 summary = "A visual study of Chuzu Hall at Chuzu Hermitage, focusing on how the building makes a timber order legible through inclination, bracketed transition, exposed structure, and ritual adaptation."
+categories = ["visual-studies"]
+
 [cover]
 image = "/images/2026-04-25-chuzudian/3.1-cover.jpg"
 alt = "Corner column and bracketed eaves of Chuzu Hall"
@@ -10,8 +13,6 @@ hiddenInSingle = true
 +++
 
 {{< gallery >}}
-
-# Chuzu Hall: A Building Order Made Visible
 
 I had read the *Yingzao Fashi* for a long time before standing in front of Chuzu Hall for the first time.
 
@@ -127,7 +128,7 @@ That is one reason Chuzu Hall remains such a strong teaching object: the bracket
 
 Chuzu Hall is often approached through the *Yingzao Fashi*, and for good reason. But the lesson here is not that the building “matches the manual” in any simplistic way. The more useful lesson is that a codified building culture can produce clarity without producing monotony.
 
-Standardisation does not eliminate design. It stabilises a shared language of parts, dimensions, and relations, making more precise adjustment possible at the level of assembly. What matters is not mere repetition, but disciplined variation within a known system.
+Standardisation does not have to eliminate design. It stabilises a shared language of parts, dimensions, and relations, making more precise adjustment possible at the level of assembly. What matters is not mere repetition, but disciplined variation within a known system.
 
 This is why the building is so compelling in person. One does not see a formula. One sees control.
 
@@ -278,6 +279,6 @@ What makes the hall so powerful is not simply that it is old, or rare, or associ
 
 That is why this hall deserves to be returned to, slowly and repeatedly.
 
-This visual study is only a first record. Each of its threads could become a separate essay: how the *Yingzao Fashi* lands in built form; how standardisation liberates design rather than suppressing it; how corners reveal system intelligence; how ritual use modifies structural reading; how a historic building remains a layered object rather than a fixed original.
+This visual study is only a first record. Each of its threads could become a separate essay: how the *Yingzao Fashi* lands in built form; how standardisation can support design rather than suppress it; how corners reveal system intelligence; how ritual use modifies structural reading; how a historic building remains a layered object rather than a fixed original.
 
 For now, it is enough to say this: Chuzu Hall makes a building order visible—and once seen, it becomes difficult to think about Chinese timber architecture in quite the same way again.
