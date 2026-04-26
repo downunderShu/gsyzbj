@@ -3,13 +3,13 @@ title = "Chuzu Hall: A Building Order Made Visible"
 date = 2026-04-25
 summary = "A visual study of Chuzu Hall at Chuzu Hermitage, focusing on how the building makes a timber order legible through inclination, bracketed transition, exposed structure, and ritual adaptation."
 [cover]
-image = "/images/2026-04-25-chuzudian/1.1.jpg"
+image = "/images/2026-04-25-chuzudian/3.1-cover.jpg"
 alt = "Chuzu Hall at Chuzu Hermitage"
 relative = false
 hiddenInSingle = true
 +++
 
-# Chuzu Hall: A Building Order Made Visible
+{{< gallery >}}
 
 I had read the *Yingzao Fashi* for a long time before standing in front of Chuzu Hall for the first time.
 
